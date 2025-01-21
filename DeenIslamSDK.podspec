@@ -10,14 +10,14 @@ Pod::Spec.new do |spec|
 
   # Metadata
   spec.name         = "DeenIslamSDK"
-  spec.version      = "1.0.0"
+  spec.version = "1.0.1"
   spec.summary      = "An Islamic SDK for MyGP iOS app"
   spec.description  = <<-DESC
     DeenIslamSDK provides Islamic content and features for the MyGP iOS app, including prayer times, Quran recitations, and other Islamic functionalities.
   DESC
 
   spec.homepage     = "https://github.com/shadhin-music/DeenGPSDK-iOS.git"
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license = { :type => "MIT", :file => "./LICENSE" }
   spec.author       = { "Talut Mahamud Deep" => "gakkdeep@gmail.com" }
   
   # Platform
