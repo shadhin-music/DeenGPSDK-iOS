@@ -410,7 +410,6 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-IB_DESIGNABLE
 SWIFT_CLASS("_TtC12DeenIslamSDK10CustomView")
 @interface CustomView : UIView
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
@@ -1686,7 +1685,6 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-IB_DESIGNABLE
 SWIFT_CLASS("_TtC12DeenIslamSDK10CustomView")
 @interface CustomView : UIView
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
