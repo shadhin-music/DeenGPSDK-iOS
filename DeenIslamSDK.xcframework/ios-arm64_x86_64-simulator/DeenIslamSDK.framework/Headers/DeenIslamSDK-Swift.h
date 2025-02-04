@@ -410,38 +410,6 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-SWIFT_CLASS("_TtC12DeenIslamSDK10CustomView")
-@interface CustomView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-- (void)didMoveToSuperview;
-@end
-
-
-@class UIViewController;
-@class UIPresentationController;
-
-@interface CustomView (SWIFT_EXTENSION(DeenIslamSDK)) <UIViewControllerTransitioningDelegate>
-- (UIPresentationController * _Nullable)presentationControllerForPresentedViewController:(UIViewController * _Nonnull)presented presentingViewController:(UIViewController * _Nullable)presenting sourceViewController:(UIViewController * _Nonnull)source SWIFT_WARN_UNUSED_RESULT;
-@end
-
-
-@class UICollectionView;
-@class NSIndexPath;
-@class UICollectionViewCell;
-@class UICollectionViewLayout;
-
-@interface CustomView (SWIFT_EXTENSION(DeenIslamSDK)) <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
-- (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UICollectionViewCell * _Nonnull)collectionView:(UICollectionView * _Nonnull)collectionView cellForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-- (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (UIEdgeInsets)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout insetForSectionAtIndex:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout minimumInteritemSpacingForSectionAtIndex:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout minimumLineSpacingForSectionAtIndex:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-@end
-
-
 SWIFT_CLASS("_TtC12DeenIslamSDK19DeenIslamCustomView")
 @interface DeenIslamCustomView : UIView
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
@@ -531,6 +499,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8DropDown")
 @end
 
 @class UITableView;
+@class NSIndexPath;
 
 @interface DropDown (SWIFT_EXTENSION(DeenIslamSDK)) <UITableViewDelegate>
 - (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
@@ -620,6 +589,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK12IQInvocation") SWIFT_AVAILABILITY(ios_app_exten
 enum IQPreviousNextDisplayMode : NSInteger;
 @class UIFont;
 @class UITapGestureRecognizer;
+@class UIViewController;
 
 /// Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. A generic version of KeyboardManagement. https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
 SWIFT_CLASS("_TtC12DeenIslamSDK17IQKeyboardManager") SWIFT_AVAILABILITY(ios_app_extension,unavailable)
@@ -760,21 +730,21 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
-/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
-@property (nonatomic, readonly) CGFloat movedDistance;
-/// Will be called then movedDistance will be changed
-@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
-@end
-
-
-SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
 - (void)registerKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier sizeHandler:(void (^ _Nonnull)(CGSize))sizeHandler;
 - (void)unregisterKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier;
 /// Boolean to know if keyboard is showing.
 @property (nonatomic, readonly) BOOL keyboardShowing;
 /// To save keyboard rame.
 @property (nonatomic, readonly) CGRect keyboardFrame;
+@end
+
+
+SWIFT_AVAILABILITY(ios_app_extension,unavailable)
+@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
+/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
+@property (nonatomic, readonly) CGFloat movedDistance;
+/// Will be called then movedDistance will be changed
+@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
 @end
 
 @protocol UITextViewDelegate;
@@ -940,10 +910,10 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 
 
 
+
 @interface UIButton (SWIFT_EXTENSION(DeenIslamSDK))
 - (UIView * _Nullable)hitTest:(CGPoint)point withEvent:(UIEvent * _Nullable)event SWIFT_WARN_UNUSED_RESULT;
 @end
-
 
 
 
@@ -1685,38 +1655,6 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-SWIFT_CLASS("_TtC12DeenIslamSDK10CustomView")
-@interface CustomView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-- (void)didMoveToSuperview;
-@end
-
-
-@class UIViewController;
-@class UIPresentationController;
-
-@interface CustomView (SWIFT_EXTENSION(DeenIslamSDK)) <UIViewControllerTransitioningDelegate>
-- (UIPresentationController * _Nullable)presentationControllerForPresentedViewController:(UIViewController * _Nonnull)presented presentingViewController:(UIViewController * _Nullable)presenting sourceViewController:(UIViewController * _Nonnull)source SWIFT_WARN_UNUSED_RESULT;
-@end
-
-
-@class UICollectionView;
-@class NSIndexPath;
-@class UICollectionViewCell;
-@class UICollectionViewLayout;
-
-@interface CustomView (SWIFT_EXTENSION(DeenIslamSDK)) <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
-- (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UICollectionViewCell * _Nonnull)collectionView:(UICollectionView * _Nonnull)collectionView cellForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-- (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (UIEdgeInsets)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout insetForSectionAtIndex:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout minimumInteritemSpacingForSectionAtIndex:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout minimumLineSpacingForSectionAtIndex:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-@end
-
-
 SWIFT_CLASS("_TtC12DeenIslamSDK19DeenIslamCustomView")
 @interface DeenIslamCustomView : UIView
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
@@ -1806,6 +1744,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8DropDown")
 @end
 
 @class UITableView;
+@class NSIndexPath;
 
 @interface DropDown (SWIFT_EXTENSION(DeenIslamSDK)) <UITableViewDelegate>
 - (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
@@ -1895,6 +1834,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK12IQInvocation") SWIFT_AVAILABILITY(ios_app_exten
 enum IQPreviousNextDisplayMode : NSInteger;
 @class UIFont;
 @class UITapGestureRecognizer;
+@class UIViewController;
 
 /// Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more. A generic version of KeyboardManagement. https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
 SWIFT_CLASS("_TtC12DeenIslamSDK17IQKeyboardManager") SWIFT_AVAILABILITY(ios_app_extension,unavailable)
@@ -2035,21 +1975,21 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
-/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
-@property (nonatomic, readonly) CGFloat movedDistance;
-/// Will be called then movedDistance will be changed
-@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
-@end
-
-
-SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
 - (void)registerKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier sizeHandler:(void (^ _Nonnull)(CGSize))sizeHandler;
 - (void)unregisterKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier;
 /// Boolean to know if keyboard is showing.
 @property (nonatomic, readonly) BOOL keyboardShowing;
 /// To save keyboard rame.
 @property (nonatomic, readonly) CGRect keyboardFrame;
+@end
+
+
+SWIFT_AVAILABILITY(ios_app_extension,unavailable)
+@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
+/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
+@property (nonatomic, readonly) CGFloat movedDistance;
+/// Will be called then movedDistance will be changed
+@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
 @end
 
 @protocol UITextViewDelegate;
@@ -2215,10 +2155,10 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 
 
 
+
 @interface UIButton (SWIFT_EXTENSION(DeenIslamSDK))
 - (UIView * _Nullable)hitTest:(CGPoint)point withEvent:(UIEvent * _Nullable)event SWIFT_WARN_UNUSED_RESULT;
 @end
-
 
 
 

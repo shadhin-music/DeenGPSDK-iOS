@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		+MD7ssFxG6KNxo9Wh2/ElMvGyuc=
+		khMztiE30R7Xi5ICoE9rcj39aPQ=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -244,6 +244,10 @@
 		<data>
 		O2jAW2Jx77N1HB1Lh17dXl1HM7k=
 		</data>
+		<key>Frameworks/libswift_Concurrency.dylib</key>
+		<data>
+		BB94sUCNDhaaKtZ9k9bSwdX3COY=
+		</data>
 		<key>FullSuraVC.nib/objects-14.0+.nib</key>
 		<data>
 		VcP3LMszK3Vfys6W4zPcXI31acM=
@@ -350,7 +354,7 @@
 		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		KJ5oGBu+pNl1IKTRVnXILYRFW3U=
+		nyOPNVAG9L0CS7Pi6KNqzI+YEp8=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
@@ -374,11 +378,11 @@
 		</data>
 		<key>Headers/LNPopupContentView.h</key>
 		<data>
-		xR9HlhSz5l6j7/SxIzK68R8rywc=
+		Ji6LMcRT4x+VDC8HoO4NALIIZvM=
 		</data>
 		<key>Headers/LNPopupController.h</key>
 		<data>
-		Dis08mUoDCGmCeYMZ7SkRsLxgvk=
+		6nyL+Q0hjrnEAYNHSNGVImRx2nU=
 		</data>
 		<key>Headers/LNPopupCustomBarViewController+Private.h</key>
 		<data>
@@ -462,7 +466,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		o5IThUpQaJ75vtMtYH7FOtMq65s=
+		QAWGgRweapj2AnHqVNLTwBb0C10=
 		</data>
 		<key>IslamicBoyanVC.nib</key>
 		<data>
@@ -570,11 +574,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		OVJykl6RN56Pr4HlLVGbf3e7kmM=
+		SuAhJcl2WQi1NugJJcjVb2ioz5s=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wrYFP1MeVIbbGNYtN6DJZ4ypv1w=
+		CQOVbFW75lHxeiudxj8Cq1W+Vys=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -582,11 +586,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wrYFP1MeVIbbGNYtN6DJZ4ypv1w=
+		CQOVbFW75lHxeiudxj8Cq1W+Vys=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/EGGl0duCfrAHxXSKmXGSTfEzw4=
+		r1rqmj94h5sCGD5FftGSXo5lVRQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1112,7 +1116,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GehN2Wa0dSGiSmK22bB3Ta9Lroc=
+			2NAD+nfODMgk4mlWAhIdTJKMD8w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1169,7 +1173,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vFWpyhxJpXN3NpRkMOCze//zfkAvw64EP35VKdktN7U=
+			Xj5Xbicrsc58TofR3y0mu6rSWiieqbhjRU5hGGffn2k=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1557,6 +1561,13 @@
 			jmGMS6nbzYnSGTL9VSD+bteh4LYhZpFqawY9HD8ujEY=
 			</data>
 		</dict>
+		<key>Frameworks/libswift_Concurrency.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PbkBLSLwKyEE6JvhaIDrBSl/gKj0WxPQsTYDmgBBAgM=
+			</data>
+		</dict>
 		<key>FullSuraVC.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1743,7 +1754,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			viX1G20dWMK+nJBuYgkAqGCV2VPPwYwNGC12EPBJ1bE=
+			/FNPEc6jJs2Cq4yyYHiohPrdG6JdDxx2UOW51domuOY=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
@@ -1785,14 +1796,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/N6360tCKEd5IzPKRn9OR60HlWkceGFjJLzX5nMX/DA=
+			qXnW8KbnJYfazLYr1DFpVspDD6FyxfgVNA52ieS5Fo4=
 			</data>
 		</dict>
 		<key>Headers/LNPopupController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rp4r0JhNLD1GYd6QKV0zhACcNsugL5plK65SGPRMb2U=
+			U//Jsp6ne5ZRU5J3vc3H5VYx2e+HD7sPuBJChKo4hUg=
 			</data>
 		</dict>
 		<key>Headers/LNPopupCustomBarViewController+Private.h</key>
@@ -2121,14 +2132,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RSSgD8Q2p3Gb9xurfoVJy/mh9PdcBvv0kfaiwcLkCbo=
+			v2e+FO3Td7H3siZB4nvj87jzvAm+BAAP3rCWxKmYHsE=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			koHNcmGrdb8EIn8fSqROxvFm2sZYdmxcG4bwataVv4s=
+			TEQTISz16VAqsM8/VFs0mc8OXwAAUtIRnOdBs1ebEwU=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -2142,14 +2153,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			koHNcmGrdb8EIn8fSqROxvFm2sZYdmxcG4bwataVv4s=
+			TEQTISz16VAqsM8/VFs0mc8OXwAAUtIRnOdBs1ebEwU=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LmyxEMOWwWIJH7kBcubFeHFe5nzUnIXSGg5PD6UNBeg=
+			BommhMganEKOkRcZZdnYWXtIDw4rNuzpMg0CvXKIrF8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3066,7 +3077,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xj4JMKXaA/jX9SE1qpdFer+etFz+B45Rkln6cAy7S/o=
+			RPT1GwJbOo0q0/2KOkxQda7EFQXbaakwj7iHWQpY0U8=
 			</data>
 			<key>optional</key>
 			<true/>

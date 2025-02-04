@@ -16,7 +16,7 @@
 
 - (instancetype)initWithFrame:(CGRect)frame;
 
-@property (nonatomic, strong, readwrite) UIPanGestureRecognizer* dn_popupInteractionGestureRecognizer;
+@property (nonatomic, strong, readwrite) UIPanGestureRecognizer* popupInteractionGestureRecognizer;
 @property (nonatomic, strong, readwrite) LNPopupCloseButton* dn_popupCloseButton;
 @property (nonatomic, strong) UIVisualEffectView* dn_effectView;
 
