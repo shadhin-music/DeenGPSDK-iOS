@@ -410,11 +410,6 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-SWIFT_CLASS("_TtC12DeenIslamSDK19DeenIslamCustomView")
-@interface DeenIslamCustomView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-@end
 
 
 SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
@@ -697,13 +692,6 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
-/// reloadInputViews to reload toolbar buttons enable/disable state on the fly Enhancement ID #434.
-- (void)reloadInputViews;
-@end
-
-
-SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
 @property (nonatomic) BOOL enableDebugging;
 /// @warning Use below methods to completely enable/disable notifications registered by library internally.
 /// Please keep in mind that library is totally dependent on NSNotification of UITextField, UITextField, Keyboard etc.
@@ -711,6 +699,13 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 /// You should use below methods at your own risk.
 - (void)registerAllNotifications;
 - (void)unregisterAllNotifications;
+@end
+
+
+SWIFT_AVAILABILITY(ios_app_extension,unavailable)
+@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
+/// reloadInputViews to reload toolbar buttons enable/disable state on the fly Enhancement ID #434.
+- (void)reloadInputViews;
 @end
 
 
@@ -730,21 +725,21 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
+/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
+@property (nonatomic, readonly) CGFloat movedDistance;
+/// Will be called then movedDistance will be changed
+@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
+@end
+
+
+SWIFT_AVAILABILITY(ios_app_extension,unavailable)
+@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
 - (void)registerKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier sizeHandler:(void (^ _Nonnull)(CGSize))sizeHandler;
 - (void)unregisterKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier;
 /// Boolean to know if keyboard is showing.
 @property (nonatomic, readonly) BOOL keyboardShowing;
 /// To save keyboard rame.
 @property (nonatomic, readonly) CGRect keyboardFrame;
-@end
-
-
-SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
-/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
-@property (nonatomic, readonly) CGFloat movedDistance;
-/// Will be called then movedDistance will be changed
-@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
 @end
 
 @protocol UITextViewDelegate;
@@ -910,10 +905,10 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 
 
 
-
 @interface UIButton (SWIFT_EXTENSION(DeenIslamSDK))
 - (UIView * _Nullable)hitTest:(CGPoint)point withEvent:(UIEvent * _Nullable)event SWIFT_WARN_UNUSED_RESULT;
 @end
+
 
 
 
@@ -955,7 +950,6 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 /// To set customized distance from keyboard for textField/textView. Can’t be less than zero
 @property (nonatomic) BOOL shouldRestoreScrollViewContentOffset;
 @end
-
 
 
 
@@ -1036,6 +1030,7 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 
 
+
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface UIViewController (SWIFT_EXTENSION(DeenIslamSDK))
 /// This method is provided to override by viewController’s if the library lifts a viewController which you doesn’t want to lift . This may happen if you have implemented side menu feature in your app and the library try to lift the side menu controller. Overriding this method in side menu class to return correct controller should fix the problem.
@@ -1044,6 +1039,7 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 /// @deprecated    Due to change in core-logic of handling distance between textField and keyboard distance, this layout contraint tweak is no longer needed and things will just work out of the box regardless of constraint pinned with safeArea/layoutGuide/superview
 @property (nonatomic, strong) IBOutlet NSLayoutConstraint * _Nullable IQLayoutGuideConstraint SWIFT_DEPRECATED_MSG("Due to change in core-logic of handling distance between textField and keyboard distance, this layout contraint tweak is no longer needed and things will just work out of the box regardless of constraint pinned with safeArea/layoutGuide/superview.");
 @end
+
 
 
 
@@ -1655,11 +1651,6 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-SWIFT_CLASS("_TtC12DeenIslamSDK19DeenIslamCustomView")
-@interface DeenIslamCustomView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-@end
 
 
 SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
@@ -1942,13 +1933,6 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
-/// reloadInputViews to reload toolbar buttons enable/disable state on the fly Enhancement ID #434.
-- (void)reloadInputViews;
-@end
-
-
-SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
 @property (nonatomic) BOOL enableDebugging;
 /// @warning Use below methods to completely enable/disable notifications registered by library internally.
 /// Please keep in mind that library is totally dependent on NSNotification of UITextField, UITextField, Keyboard etc.
@@ -1956,6 +1940,13 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 /// You should use below methods at your own risk.
 - (void)registerAllNotifications;
 - (void)unregisterAllNotifications;
+@end
+
+
+SWIFT_AVAILABILITY(ios_app_extension,unavailable)
+@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
+/// reloadInputViews to reload toolbar buttons enable/disable state on the fly Enhancement ID #434.
+- (void)reloadInputViews;
 @end
 
 
@@ -1975,21 +1966,21 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
+/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
+@property (nonatomic, readonly) CGFloat movedDistance;
+/// Will be called then movedDistance will be changed
+@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
+@end
+
+
+SWIFT_AVAILABILITY(ios_app_extension,unavailable)
+@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
 - (void)registerKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier sizeHandler:(void (^ _Nonnull)(CGSize))sizeHandler;
 - (void)unregisterKeyboardSizeChangeWithIdentifier:(NSObject * _Nonnull)identifier;
 /// Boolean to know if keyboard is showing.
 @property (nonatomic, readonly) BOOL keyboardShowing;
 /// To save keyboard rame.
 @property (nonatomic, readonly) CGRect keyboardFrame;
-@end
-
-
-SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface IQKeyboardManager (SWIFT_EXTENSION(DeenIslamSDK))
-/// moved distance to the top used to maintain distance between keyboard and textField. Most of the time this will be a positive value.
-@property (nonatomic, readonly) CGFloat movedDistance;
-/// Will be called then movedDistance will be changed
-@property (nonatomic, copy) void (^ _Nullable movedDistanceChanged)(CGFloat);
 @end
 
 @protocol UITextViewDelegate;
@@ -2155,10 +2146,10 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 
 
 
-
 @interface UIButton (SWIFT_EXTENSION(DeenIslamSDK))
 - (UIView * _Nullable)hitTest:(CGPoint)point withEvent:(UIEvent * _Nullable)event SWIFT_WARN_UNUSED_RESULT;
 @end
+
 
 
 
@@ -2200,7 +2191,6 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 /// To set customized distance from keyboard for textField/textView. Can’t be less than zero
 @property (nonatomic) BOOL shouldRestoreScrollViewContentOffset;
 @end
-
 
 
 
@@ -2281,6 +2271,7 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 
 
 
+
 SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 @interface UIViewController (SWIFT_EXTENSION(DeenIslamSDK))
 /// This method is provided to override by viewController’s if the library lifts a viewController which you doesn’t want to lift . This may happen if you have implemented side menu feature in your app and the library try to lift the side menu controller. Overriding this method in side menu class to return correct controller should fix the problem.
@@ -2289,6 +2280,7 @@ SWIFT_AVAILABILITY(ios_app_extension,unavailable)
 /// @deprecated    Due to change in core-logic of handling distance between textField and keyboard distance, this layout contraint tweak is no longer needed and things will just work out of the box regardless of constraint pinned with safeArea/layoutGuide/superview
 @property (nonatomic, strong) IBOutlet NSLayoutConstraint * _Nullable IQLayoutGuideConstraint SWIFT_DEPRECATED_MSG("Due to change in core-logic of handling distance between textField and keyboard distance, this layout contraint tweak is no longer needed and things will just work out of the box regardless of constraint pinned with safeArea/layoutGuide/superview.");
 @end
+
 
 
 

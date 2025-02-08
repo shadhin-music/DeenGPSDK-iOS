@@ -213,11 +213,6 @@ extension DeenIslamSDK.IQKeyboardManager {
   public func greaterThanOrEqualToSuperview(_ file: Swift.String = #file, line: Swift.UInt = #line) -> DeenIslamSDK.ConstraintMakerEditable
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class DeenIslamCustomView : UIKit.UIView {
-  @_Concurrency.MainActor @preconcurrency public var sdk: DeenIslamSDK.DeenIslamGPSDK?
-  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
-  @objc deinit
-}
 @objc @_inheritsConvenienceInitializers public class AudioPlayer : ObjectiveC.NSObject {
   public var currentItem: DeenIslamSDK.AudioItem? {
     get
@@ -1550,6 +1545,57 @@ public struct AudioPlayerMode : Swift.OptionSet {
 extension DeenIslamSDK.IQKeyboardManager : UIKit.UIGestureRecognizerDelegate {
   @_Concurrency.MainActor @preconcurrency @objc final public func gestureRecognizer(_ gestureRecognizer: UIKit.UIGestureRecognizer, shouldRecognizeSimultaneouslyWith otherGestureRecognizer: UIKit.UIGestureRecognizer) -> Swift.Bool
   @_Concurrency.MainActor @preconcurrency @objc final public func gestureRecognizer(_ gestureRecognizer: UIKit.UIGestureRecognizer, shouldReceive touch: UIKit.UITouch) -> Swift.Bool
+}
+extension Swift.Double {
+  public static var defaultPopupSnapPercent: Swift.Double {
+    get
+  }
+}
+extension UIKit.UIViewController {
+  public enum DNPopupInteractionStyle {
+    case `default`
+    case drag
+    case snap
+    case customizedSnap(percent: Swift.Double)
+    case scroll
+    case none
+  }
+  @_Concurrency.MainActor @preconcurrency public var popupInteractionStyle: UIKit.UIViewController.DNPopupInteractionStyle {
+    get
+    set
+  }
+}
+extension DeenIslamSDK.DNPopupItem {
+  @available(iOS 15, *)
+  @_Concurrency.MainActor @preconcurrency public var attributedTitle: Foundation.AttributedString? {
+    get
+    set
+  }
+  @available(iOS 15, *)
+  @_Concurrency.MainActor @preconcurrency public var attributedSubtitle: Foundation.AttributedString? {
+    get
+    set
+  }
+}
+extension DeenIslamSDK.DNPopupBarAppearance {
+  @available(iOS 15, *)
+  @_Concurrency.MainActor @preconcurrency public var titleTextAttributes: Foundation.AttributeContainer? {
+    get
+    set
+  }
+  @available(iOS 15, *)
+  @_Concurrency.MainActor @preconcurrency public var subtitleTextAttributes: Foundation.AttributeContainer? {
+    get
+    set
+  }
+}
+extension UIKit.UIViewController {
+  @_Concurrency.MainActor @preconcurrency public func dnpresentPopupBar(with contentViewController: UIKit.UIViewController, dnopenPopup: Swift.Bool = false, dnanimated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
+  @available(*, deprecated, message: "Use presentPopupBar(with:openPopup:animated:completion:) instead.")
+  @_Concurrency.MainActor @preconcurrency public func dnpresentPopupBar(withContentViewController contentViewController: UIKit.UIViewController, dnopenPopup: Swift.Bool = false, animated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
+  @_Concurrency.MainActor @preconcurrency public func dnopenPopup(animated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
+  @_Concurrency.MainActor @preconcurrency public func dnclosePopup(animated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
+  @_Concurrency.MainActor @preconcurrency public func dndismissPopupBar(animated: Swift.Bool, completion: (() -> Swift.Void)? = nil)
 }
 public protocol VGPlayerViewDelegate : AnyObject {
   func vgPlayerView(_ playerView: DeenIslamSDK.VGPlayerView, willFullscreen isFullscreen: Swift.Bool)

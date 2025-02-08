@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		khMztiE30R7Xi5ICoE9rcj39aPQ=
+		Q1x4S2+CpW3enTK+6151wYoAt/w=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>CardCell.nib</key>
 		<data>
-		tOQ3YRXJs5ZlLKCLPTVwoYtQ5dA=
+		2rUEbBDoUJhD/r40premO/6l4g8=
 		</data>
 		<key>CatFooter.nib</key>
 		<data>
@@ -108,10 +108,6 @@
 		<data>
 		+8/zMSuQq78k3pzqEbTTAJkLycY=
 		</data>
-		<key>CustomView.nib</key>
-		<data>
-		QlZxrGGsORsgyihxNXX1kw3CiCg=
-		</data>
 		<key>DailyDuaSubCell.nib</key>
 		<data>
 		Wt9c6/wm4jX/b7fovwOErHWWp+E=
@@ -130,11 +126,11 @@
 		</data>
 		<key>DeenFooterView.nib</key>
 		<data>
-		KH8tGHg5tjfuF3S0swNYGLF/3pQ=
+		UNFQzWQj0D+dOBJl4tnyE1mi7fY=
 		</data>
 		<key>DeenFooterViewCV.nib</key>
 		<data>
-		Kr0KiryCbTr69fuOPsKP0xxheng=
+		xLB6dfHiSSKKDhsUYC8vVwaQe3g=
 		</data>
 		<key>DetailsVideoCell.nib</key>
 		<data>
@@ -154,11 +150,11 @@
 		</data>
 		<key>DuaCategoryCell.nib</key>
 		<data>
-		+QVIIE1ZBvsDitV8G11g7uZgm1s=
+		SGr6Kwf+fm0tfEAOM/MHRd8GniM=
 		</data>
 		<key>DuaCategoryDetailsCell.nib</key>
 		<data>
-		M1f7lG289ltNcJFf3GFG7vc6vjU=
+		suypXMB0HZ4xAOTamPYJRZBmFSs=
 		</data>
 		<key>DuaCategoryDetailsVC.nib</key>
 		<data>
@@ -174,7 +170,7 @@
 		</data>
 		<key>DuaCell.nib</key>
 		<data>
-		DU+zEmnsuhV2hyox2r7Mbvu4QF0=
+		1R7mh+dRKSIFRv/UPjF1bot/I0o=
 		</data>
 		<key>DuaVC.nib</key>
 		<data>
@@ -210,7 +206,7 @@
 		</data>
 		<key>EventCell.nib</key>
 		<data>
-		mpIeqDg1JTiUDIn6gGjZS4oUTYU=
+		1FwSC/4t9gxUbr3vo3zuRohBNGk=
 		</data>
 		<key>FavCell.nib</key>
 		<data>
@@ -244,17 +240,13 @@
 		<data>
 		O2jAW2Jx77N1HB1Lh17dXl1HM7k=
 		</data>
-		<key>Frameworks/libswift_Concurrency.dylib</key>
-		<data>
-		BB94sUCNDhaaKtZ9k9bSwdX3COY=
-		</data>
 		<key>FullSuraVC.nib/objects-14.0+.nib</key>
 		<data>
-		VcP3LMszK3Vfys6W4zPcXI31acM=
+		ihtxRdRDZyLXapnHuyXsRze5OXs=
 		</data>
 		<key>FullSuraVC.nib/runtime.nib</key>
 		<data>
-		kJYdEuQw3DYToTBMnUgrLZjxadM=
+		KI5lhA9u2rYoK2z9fRStHlInSz8=
 		</data>
 		<key>GPPopUp.nib</key>
 		<data>
@@ -278,11 +270,11 @@
 		</data>
 		<key>GpPrayerCell.nib</key>
 		<data>
-		8Ds43iHxONQr8D+HlxUCo+Qab38=
+		3VXOmD/Jeukt8SZ98dotCDZWKKI=
 		</data>
 		<key>HadithBookCell.nib</key>
 		<data>
-		K+sEN8QELh9HQ70oMgTXwuvfOwk=
+		+ApwlkCqNtRRkb+N8++3KKG+344=
 		</data>
 		<key>HadithBookChapterCell.nib</key>
 		<data>
@@ -290,7 +282,7 @@
 		</data>
 		<key>HadithBookChapterDetailsCell.nib</key>
 		<data>
-		MWbF7eam2Hy4h46m2WcUKoRr51k=
+		rsHRh3rA3i4kcur+iruchar36Ro=
 		</data>
 		<key>HadithBookChapterDetailsVC.nib</key>
 		<data>
@@ -302,7 +294,7 @@
 		</data>
 		<key>HadithBookVC.nib</key>
 		<data>
-		M8xcUSbmRenD85DCqHAr1n5x6fw=
+		0Lg/wZkZ1VMgJXRLq6hDm0d3Auk=
 		</data>
 		<key>HadithCategoryVC.nib</key>
 		<data>
@@ -326,11 +318,11 @@
 		</data>
 		<key>HajjBoyanCell.nib</key>
 		<data>
-		4dAHR4p2MbFewv/Xw3FJiTyV9Aw=
+		fsdi7a+JaJlpG1wPUxbx5oUa2Ss=
 		</data>
 		<key>HajjCategoryCellCollectionViewCell.nib</key>
 		<data>
-		kd/Gj8Cb2M16CBua+ilpurF4KXA=
+		AUyqdhgPywfrsU+gGR5SbX4kFdM=
 		</data>
 		<key>HajjDetailsNewCell.nib</key>
 		<data>
@@ -342,71 +334,163 @@
 		</data>
 		<key>HajjDuaCell.nib</key>
 		<data>
-		/6LI4Ktc979lmKBYidjzdGmMZgs=
+		ueC/jQA6tjTK/pxoG1g8ZcUVJPo=
 		</data>
 		<key>HajjSingleCardCell.nib</key>
 		<data>
-		TY5nT2jHKFTx+s0LI0vhCjj571k=
+		dBhnui2BhayFsvuzlJ/XzcLSx5E=
 		</data>
 		<key>HeaderEvent.nib</key>
 		<data>
 		w1XoR+dNKE26qS76QT72U4RqWuE=
 		</data>
+		<key>Headers/DNChevronView.h</key>
+		<data>
+		71uH1KlFpboUgSz1GPGzgLUychU=
+		</data>
+		<key>Headers/DNForwardingDelegate.h</key>
+		<data>
+		wnWalGBshCtSryt8kxUnhwxBVI0=
+		</data>
+		<key>Headers/DNMarqueeLabel.h</key>
+		<data>
+		Zvk8jf8uaH5rAbFg8NPyOUDot70=
+		</data>
+		<key>Headers/DNMath.h</key>
+		<data>
+		wL+UuZ/GvhOO0SzxToapiTT97kA=
+		</data>
+		<key>Headers/DNPopupBar+Private.h</key>
+		<data>
+		BbGc1AW7ptV37nwgdOCoC/2gVII=
+		</data>
+		<key>Headers/DNPopupBar.h</key>
+		<data>
+		hHL4kQJ8Ab4eXPm7WnowgcN1cAQ=
+		</data>
+		<key>Headers/DNPopupBarAppearance+Private.h</key>
+		<data>
+		sz0K/lVuJovZjZrR7h9FI8Kky+8=
+		</data>
+		<key>Headers/DNPopupBarAppearance.h</key>
+		<data>
+		oNc6KxD7Ycy461yRE7+SoWg4oYg=
+		</data>
+		<key>Headers/DNPopupBarAppearanceChainProxy.h</key>
+		<data>
+		hbrPNaOrOU/m/65TqDLnPVjjkM8=
+		</data>
+		<key>Headers/DNPopupCloseButton+Private.h</key>
+		<data>
+		41w/OFB+74F+NwhTTvpjV+m3Cdw=
+		</data>
+		<key>Headers/DNPopupCloseButton.h</key>
+		<data>
+		zMCKeVy76vrHtvnE4PKhR/Gj7UY=
+		</data>
+		<key>Headers/DNPopupContentView+Private.h</key>
+		<data>
+		3WLHi+QULArSL3mq1mh/1g7XsT8=
+		</data>
+		<key>Headers/DNPopupContentView.h</key>
+		<data>
+		+LiH41fF3zuZmZ96JMuNzP1vDjk=
+		</data>
+		<key>Headers/DNPopupController.h</key>
+		<data>
+		qkao+5I1qoO/gDNSVqaWOsrx6cw=
+		</data>
+		<key>Headers/DNPopupCustomBarViewController+Private.h</key>
+		<data>
+		PbKV2408XIN5L3+JMkShwvRGO7w=
+		</data>
+		<key>Headers/DNPopupCustomBarViewController.h</key>
+		<data>
+		Z5PR3mP0RoomULX97spBOp3RBSg=
+		</data>
+		<key>Headers/DNPopupDefinitions.h</key>
+		<data>
+		UxEUFNRRsaJwLcz5uMrG3au4sJY=
+		</data>
+		<key>Headers/DNPopupInteractionPanGestureRecognizer.h</key>
+		<data>
+		syBHSibD7OjvbRR3CQhz0S3u8vk=
+		</data>
+		<key>Headers/DNPopupItem+Private.h</key>
+		<data>
+		n22vO5VEdeozpc8E6dEcLBgPxQE=
+		</data>
+		<key>Headers/DNPopupItem.h</key>
+		<data>
+		Yuw2ygYPVgBnWEZIF0RWQMVKYzQ=
+		</data>
+		<key>Headers/DNPopupLongPressGestureRecognizer.h</key>
+		<data>
+		0N1ni+veqdRD4NEaohKu7xqxnBI=
+		</data>
+		<key>Headers/DNPopupOpenTapGestureRecognizer.h</key>
+		<data>
+		TIkD85He/QLPyJdON8lxIY1hr4U=
+		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		nyOPNVAG9L0CS7Pi6KNqzI+YEp8=
+		dDDlmN9DN9Uv/Vp/eP9lL6oqxIk=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
-		8/O3cyyNMZO1X2r7CixDE/vcGHI=
+		cCYqggiwNP7tiZY7IMrjs9age5E=
 		</data>
-		<key>Headers/LNChevronView.h</key>
+		<key>Headers/NSAttributedString+DNPopupSupport.h</key>
 		<data>
-		RmjpCR7pSuXG1lPIzpNaf6SttqI=
+		LaL1Aw1LCLv92F9FiY3UbgQGPU0=
 		</data>
-		<key>Headers/LNPopupBar+Private.h</key>
+		<key>Headers/UIContextMenuInteraction+DNPopupSupportPrivate.h</key>
 		<data>
-		QzUvOSjDAaG6CiqpuTmXUZa+3so=
+		j9rbAsf0biSRtAUTsmVgzwAkVOo=
 		</data>
-		<key>Headers/LNPopupBar.h</key>
+		<key>Headers/UIView+DNPopupSupportPrivate.h</key>
 		<data>
-		0mJo7gwFQUhXBFlWizLlEIATv6s=
+		Sb0mCrhR6f5h+gaeNwlH4QlnyRc=
 		</data>
-		<key>Headers/LNPopupCloseButton.h</key>
+		<key>Headers/UIViewController+DNPopupSupport.h</key>
 		<data>
-		A+E1k5Uwjc0rOGpM4OuszMGQm2g=
+		IrQmEHCRBz30ng89oHUCSP7QllE=
 		</data>
-		<key>Headers/LNPopupContentView.h</key>
+		<key>Headers/UIViewController+DNPopupSupportPrivate.h</key>
 		<data>
-		Ji6LMcRT4x+VDC8HoO4NALIIZvM=
+		7zwKS0O951zKRBwkNXj1E+XxDPs=
 		</data>
-		<key>Headers/LNPopupController.h</key>
+		<key>Headers/_DNPopupAddressInfo.h</key>
 		<data>
-		6nyL+Q0hjrnEAYNHSNGVImRx2nU=
+		KtvvPrMaD8TkRFlPcLSYCwUOQdE=
 		</data>
-		<key>Headers/LNPopupCustomBarViewController+Private.h</key>
+		<key>Headers/_DNPopupBackgroundShadowView.h</key>
 		<data>
-		eEwWUnHRaY+VHDrin4UggHRANfM=
+		rdkbIFoily6YsjyWGURoXuktoHQ=
 		</data>
-		<key>Headers/LNPopupCustomBarViewController.h</key>
+		<key>Headers/_DNPopupBarBackgroundMaskView.h</key>
 		<data>
-		NwjRh9iXRWJ6EBc8w9C8qWJxqiI=
+		zy/Kv+TsJaU3TgTAkJjtsFjOTzE=
 		</data>
-		<key>Headers/LNPopupItem.h</key>
+		<key>Headers/_DNPopupBarBackgroundView.h</key>
 		<data>
-		J6sw3W7OK+62PBWY8gNcyFY4t04=
+		45iDrKKGFxnOukjquHvStaZqtQ4=
 		</data>
-		<key>Headers/UIViewController+LNPopupSupport.h</key>
+		<key>Headers/_DNPopupBarShadowedImageView.h</key>
 		<data>
-		wzlr+vTGQ9Td8Q54X89HT7UtUzw=
+		YwbZTziOL60ExWkG6kF2i4XJvuI=
 		</data>
-		<key>Headers/UIViewController+LNPopupSupportPrivate.h</key>
+		<key>Headers/_DNPopupUIBarAppearanceProxy.h</key>
 		<data>
-		Q85esH8YSmDpnzhWv67TfQulEuQ=
+		gQU8hH1vCZ1gmix4oTtCQABm40k=
+		</data>
+		<key>Headers/_DNWeakRef.h</key>
+		<data>
+		Wdt3yC5MHp8kVf/dlwTZvR5tY88=
 		</data>
 		<key>HomeBillBoardCentreCell.nib</key>
 		<data>
-		oxzeeK/jkHDRf/W7pWrMzXW1Z/M=
+		pboV4FoIDuvHebEgT+Ej31GNJzc=
 		</data>
 		<key>HomeBillboardCell.nib</key>
 		<data>
@@ -438,7 +522,7 @@
 		</data>
 		<key>HomeMenuVC.nib</key>
 		<data>
-		tBmBfh/ML6F/7p6Vl7DiDsVfIOs=
+		Dw40NSGohzb2cD/wFEcqtAFb69c=
 		</data>
 		<key>HomePlayerVC.nib</key>
 		<data>
@@ -454,11 +538,15 @@
 		</data>
 		<key>HomeVC.nib</key>
 		<data>
-		Ru92e1cJAGQaOyQ4oNw1f3M9xoo=
+		zaxznA7ZQv5KtfDwa+rGc6WCpC4=
 		</data>
 		<key>HomeYTPlayer.nib</key>
 		<data>
 		fq20jN34SvO5JIUNaYIAA2XfJcI=
+		</data>
+		<key>IbadahHome.nib</key>
+		<data>
+		8sX1Nbwjat3QmKHP8uQu4ZnlZZ4=
 		</data>
 		<key>ImageCell.nib</key>
 		<data>
@@ -466,7 +554,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QAWGgRweapj2AnHqVNLTwBb0C10=
+		rNS/G0mgHnNi46BJmOcZvLQzSAA=
 		</data>
 		<key>IslamicBoyanVC.nib</key>
 		<data>
@@ -574,23 +662,23 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		SuAhJcl2WQi1NugJJcjVb2ioz5s=
+		zUdEp+EDHI28MYH7NcYAwQKdpI4=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		CQOVbFW75lHxeiudxj8Cq1W+Vys=
+		NylMEWcS0v/OtDaCOg9HTT7LJnI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		kiOhEmohWNxgwp00Hl5SuFiwKnk=
+		VJO8MH/OvKE500xWozb1Cb8bUN8=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		CQOVbFW75lHxeiudxj8Cq1W+Vys=
+		NylMEWcS0v/OtDaCOg9HTT7LJnI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		r1rqmj94h5sCGD5FftGSXo5lVRQ=
+		AyIiyJVMZnDKMkPFSJTS8xGo6Yo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -610,7 +698,7 @@
 		</data>
 		<key>NamazLearningCell.nib</key>
 		<data>
-		llWu62DpdhfUwanso8i2vHJERQ8=
+		eWO4FNdSOnVMZ53wqL8trgiu6zc=
 		</data>
 		<key>NamazLearningSubCategoryDetailsVC.nib</key>
 		<data>
@@ -634,7 +722,7 @@
 		</data>
 		<key>NamazLearningVisualVC.nib</key>
 		<data>
-		V45mc30DVj77K8K/eJyzjUM2/MM=
+		oP1BJcKnzHvA+voJtxfTNgoPC3E=
 		</data>
 		<key>NameCard.nib/objects-14.0+.nib</key>
 		<data>
@@ -702,7 +790,7 @@
 		</data>
 		<key>PickerCell.nib</key>
 		<data>
-		m68Z0JLxynebb2q36mX/lBq04kg=
+		6teTM7VZK/2jsogdGjntC23KOpI=
 		</data>
 		<key>PlayerLearningDetailsVC.nib</key>
 		<data>
@@ -728,6 +816,10 @@
 		<data>
 		uS353ONFA3lvtE+V4s7UhTElsdI=
 		</data>
+		<key>PrayerCommonCell.nib</key>
+		<data>
+		hvuGnoHZ1loW80jocQcjEdnmFfA=
+		</data>
 		<key>PrayerDetailsCell.nib</key>
 		<data>
 		dNZPQ85Q7PEYWbWmgBt7enuFzdU=
@@ -738,7 +830,7 @@
 		</data>
 		<key>PrayerForbiddenTimeDataCell.nib</key>
 		<data>
-		KTjWpOAm+mTfM1sgCjlFo4GGoso=
+		+ivtdmXRX0D65x7ZMNgZX0Nucu8=
 		</data>
 		<key>PrayerLearningFooter.nib</key>
 		<data>
@@ -786,7 +878,7 @@
 		</data>
 		<key>PrayerTimeNotificationVC.nib</key>
 		<data>
-		Smb/00vZisNXBGmQNFErniA/Cms=
+		0TP70Lqu6GfRWKzzLcyeIQeSnCg=
 		</data>
 		<key>PrayerTimeVC.nib</key>
 		<data>
@@ -810,7 +902,7 @@
 		</data>
 		<key>QuaranAyatCell.nib</key>
 		<data>
-		RDNEF6kDnjDG5T5Qokb5I9G4hXM=
+		tfNXhIiS9UIAwaeEiNPi9F3rBW4=
 		</data>
 		<key>QurabaniPlayerView.nib</key>
 		<data>
@@ -838,7 +930,7 @@
 		</data>
 		<key>QuranHeaderView.nib</key>
 		<data>
-		fEZKdfbZ+if4DqfdKy8FYF7nlMU=
+		IaU3RMZ2Vtx0+D9htLP2ghRMWSU=
 		</data>
 		<key>QuranPlayerVC.nib</key>
 		<data>
@@ -862,7 +954,7 @@
 		</data>
 		<key>QurbaniBoyanCell.nib</key>
 		<data>
-		0xjyryWxZbvli/24FQfduVwVHhU=
+		EBixHDzsNpAn2pxjM6O+xoh8BPY=
 		</data>
 		<key>QurbaniCategoryCell.nib</key>
 		<data>
@@ -882,7 +974,7 @@
 		</data>
 		<key>RamadanCalendarCell.nib</key>
 		<data>
-		1SaiW0e9nwOwgRFBQK4Ik2i5D1k=
+		ME9ehYUI6okQvHSqOj+CYZ6uLNM=
 		</data>
 		<key>RamadanCalender.nib</key>
 		<data>
@@ -930,7 +1022,7 @@
 		</data>
 		<key>SuraCell.nib</key>
 		<data>
-		ggRJFKWE+5xC4N2ddiSiK20Ucg0=
+		67kojPC1wqOs3OZPqbUk9AZ16Xk=
 		</data>
 		<key>SuraDetailsCell.nib</key>
 		<data>
@@ -938,7 +1030,7 @@
 		</data>
 		<key>SuraDetailsVC.nib</key>
 		<data>
-		n3JIMDLhWoidyy04u+Fmy+swRVE=
+		yqNzwP28kU34ehoTmfv/2l2Xel4=
 		</data>
 		<key>SuraVC.nib</key>
 		<data>
@@ -990,11 +1082,11 @@
 		</data>
 		<key>TextCell.nib</key>
 		<data>
-		5ti3Du6ZbZwCZmqFT+NGQimO8EE=
+		jkGD+fNb+R3Cnsbp/PMmLWfnGAk=
 		</data>
 		<key>TimeCell.nib</key>
 		<data>
-		3fC/wfPuAmu6HFnnfIvk8+TVJq0=
+		mFNzhk2PKi1flxzHXhIb7Q/DE3c=
 		</data>
 		<key>TimeDetails.nib</key>
 		<data>
@@ -1018,7 +1110,7 @@
 		</data>
 		<key>VideoDetailsCell.nib</key>
 		<data>
-		dc913Wt1U9XhNbFLPPExWHiZ81A=
+		0sYDm9yXH5RszfdH2azso2SktjY=
 		</data>
 		<key>WhenSubcribedCell.nib</key>
 		<data>
@@ -1070,7 +1162,7 @@
 		</data>
 		<key>ZakatMenu.nib</key>
 		<data>
-		kz67K5Z3hjP0mFYOmF62iLAnoiQ=
+		HAgAXUYWILK+7ac6L0AJVoLzlGE=
 		</data>
 		<key>ZakatMenuCell.nib</key>
 		<data>
@@ -1173,7 +1265,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xj5Xbicrsc58TofR3y0mu6rSWiieqbhjRU5hGGffn2k=
+			SfiHfOie3a3TsoKQKsnLPul9ZjRL2mPplEdDc8VVt4Q=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1243,7 +1335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qnj1sIzlNow4NWr1PMO15AdV0LtIjL+Y4agUkv1nYZU=
+			vWAGgvtjnicKUvI8jNPA7EyfqroHYOIFksePA6kXq9E=
 			</data>
 		</dict>
 		<key>CatFooter.nib</key>
@@ -1323,13 +1415,6 @@
 			bv7aad6/4epuUJuIxg5y1E6/kH8HBIDSKOA6r81KIKM=
 			</data>
 		</dict>
-		<key>CustomView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ffijZTWea/b/ZSQRKNrlVv8zW0w1ipSzXb8LakOqZgE=
-			</data>
-		</dict>
 		<key>DailyDuaSubCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1362,14 +1447,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fsKSjqy0/xpQ5PN8RdJxO//FwWSupepVqjXjWXCctY4=
+			gAV8LoAeyFXFBvjIn3wJdSEsC3h9Sivv4bDNt6Rin88=
 			</data>
 		</dict>
 		<key>DeenFooterViewCV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H8uL0f664puSb6rJPDKMJ2Fhuk79RglkgCui/HbZeZk=
+			iREUz/LHR0QTHQvsneokJM6Lc7IqGz4opQPLp7sc/hY=
 			</data>
 		</dict>
 		<key>DetailsVideoCell.nib</key>
@@ -1404,14 +1489,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgM6+MZO2MRMF1VdTcW9yBV23u9N2Dc4P2ofnodDg6Q=
+			gY5sMDG8qXP0yCrbXrPFZp+kOr1RhDIQquXG5uSXLFM=
 			</data>
 		</dict>
 		<key>DuaCategoryDetailsCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			71WRQEiBrHtIbSZnfjt0css/KkSWoWAHwfObGEoapnY=
+			SD8huMJmxFn5aNMjE9RyJdWq81VwltXbcsdIv+QCqYY=
 			</data>
 		</dict>
 		<key>DuaCategoryDetailsVC.nib</key>
@@ -1439,7 +1524,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OrGa7ZwyD+DDxkrm/q8LkKPFAlDNt4T8xvtNUmDs3DI=
+			zuIHBELRNfaMUDVmAY+jiW7a0ESbgsjIXhyeIhET2IA=
 			</data>
 		</dict>
 		<key>DuaVC.nib</key>
@@ -1502,7 +1587,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ph5496w5FFfwxCy5ZtGhI+jqEQGD/WXHeH7wD6kensE=
+			q8gD9oUsUHAK5YD0LyMAnyxtjZf3+pq+U4NT0RS8QNA=
 			</data>
 		</dict>
 		<key>FavCell.nib</key>
@@ -1561,25 +1646,18 @@
 			jmGMS6nbzYnSGTL9VSD+bteh4LYhZpFqawY9HD8ujEY=
 			</data>
 		</dict>
-		<key>Frameworks/libswift_Concurrency.dylib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PbkBLSLwKyEE6JvhaIDrBSl/gKj0WxPQsTYDmgBBAgM=
-			</data>
-		</dict>
 		<key>FullSuraVC.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jyVS8H0X2R+b72q04zAVePXHe39Hko4zTuvy+BDdxVI=
+			4esLHDrEWezRPeAVadI1fPLd5u2VlE8HlEgS1pSHyPo=
 			</data>
 		</dict>
 		<key>FullSuraVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tF+SO/A2WeQLSoxJHuJBiPRX93PczWa6ZhuSAQDt/co=
+			xMS4n8uQlr4dqK+42BLEhS5Tn3LGspEgT/GewGcFkGA=
 			</data>
 		</dict>
 		<key>GPPopUp.nib</key>
@@ -1621,14 +1699,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4sAFVh+hepQ/QjjJGqw0I+y2AIkuQI5BsMCOAyEc/8Y=
+			OvLX631FYHcQIWsr8OtWLsa51vJ8K21TK5LyGPuY41U=
 			</data>
 		</dict>
 		<key>HadithBookCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/I4DWH4gp750qH65rwYfbRtGBDUtR5x8dcqoY9K4D+g=
+			m9IunORBgv2MMYVpuBgPcho3EvjeN3rusvv72qqZ6hY=
 			</data>
 		</dict>
 		<key>HadithBookChapterCell.nib</key>
@@ -1642,7 +1720,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrGhg5ahQRd/SrawRjBeIyR785msLdHupHRGpBf5eng=
+			CIwIgh6gzThqSo4YMtSGFEaly+6qbvwweSLjiIx5a34=
 			</data>
 		</dict>
 		<key>HadithBookChapterDetailsVC.nib</key>
@@ -1663,7 +1741,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cTQuHjL1zAcoPy8t5/WkASnI4COT5TTPtcfSvsSCaNY=
+			Q3fRk4tCC4TEwKVVw4fi75V3WUycx6Hi0Tmgq/LL+5g=
 			</data>
 		</dict>
 		<key>HadithCategoryVC.nib</key>
@@ -1705,14 +1783,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5zQFMZfUyT9NaiWF1hMKmWHznK1Sn+eoZHVOq1ruGUc=
+			L0ImoTcXVLfuuc3wPJFR1d1bA8huaOCI6RbtpVRWqes=
 			</data>
 		</dict>
 		<key>HajjCategoryCellCollectionViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C8JefpGjxGjuq3IoqL6TFpzA3kmezcE4cTTL09KYRWA=
+			HzVZLbMbJRZvXFOu4djsdOE5k4ZYHlBuQVYJ9jERJaA=
 			</data>
 		</dict>
 		<key>HajjDetailsNewCell.nib</key>
@@ -1733,14 +1811,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9BpGRiHst2GXytUO6OYUdMzIex2NuP3byerCLEPKEvc=
+			DpToYZiZJQHoXmG8NuKohfYC0eFW1y73nHtNE8oOYGM=
 			</data>
 		</dict>
 		<key>HajjSingleCardCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			796wHJaUXbTHjX4TP0NMAeLy+Mzmj2YYOfUW5bicz1I=
+			rVooH1q+HMyY/g2zrdAP0qseS0pVfdisc0LUk5i83js=
 			</data>
 		</dict>
 		<key>HeaderEvent.nib</key>
@@ -1750,102 +1828,263 @@
 			nicciqtIIvsLmCqXYrs12ODhnQtiCMlqIXsGJ4rw32Q=
 			</data>
 		</dict>
+		<key>Headers/DNChevronView.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l58REc0vZmAGzWGOmzfVkvjhI3ECJGox+Mh4AwRdQ4k=
+			</data>
+		</dict>
+		<key>Headers/DNForwardingDelegate.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jrW3A9eX6QLYxdAc68Tp3QAeyQkPeTUDX3xUAlKNWP0=
+			</data>
+		</dict>
+		<key>Headers/DNMarqueeLabel.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0PFl36hqp+FT3cEmpkNakSCWeWThDS96bQNDdI7sI+s=
+			</data>
+		</dict>
+		<key>Headers/DNMath.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TgA3Eej16rF6/2KJtw43Zlipg2y5Qo3hMK2iw/iQG54=
+			</data>
+		</dict>
+		<key>Headers/DNPopupBar+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RhlnzmedNBb6PpBzHn4sOPElVEQHkPfVF5p2S7g4tsc=
+			</data>
+		</dict>
+		<key>Headers/DNPopupBar.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iSbHt28Jhm4RoO4+t2GUULMEQjp6PAJEtqvbKIA1Hao=
+			</data>
+		</dict>
+		<key>Headers/DNPopupBarAppearance+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k5Wrdyj0dei6PfNFvApJHu6omwCbPEeN5cr19wI6LzQ=
+			</data>
+		</dict>
+		<key>Headers/DNPopupBarAppearance.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W16kU0FCF7v2OrbtkdhAQ5gA7OxuX4eLr+2dW1uTCGc=
+			</data>
+		</dict>
+		<key>Headers/DNPopupBarAppearanceChainProxy.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RAMG8YgsJyT8ct912dEVr67A57NjBwb8YNhQgK7sNjM=
+			</data>
+		</dict>
+		<key>Headers/DNPopupCloseButton+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+4FH1LQ8d/K72pEYdJ2B6bxjfLR1NRY5arigsoekTZ4=
+			</data>
+		</dict>
+		<key>Headers/DNPopupCloseButton.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zh8zmcss+Iili9MfLYPooTYrVO4DChFDozVqx73xMVQ=
+			</data>
+		</dict>
+		<key>Headers/DNPopupContentView+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G3J2tAR9fGHtLkRAYBduYeoqDHUTOdUh6tW9nwgBFRw=
+			</data>
+		</dict>
+		<key>Headers/DNPopupContentView.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Bb94knzzVHCAmq3CZCKKtY/Fn6qGF+yp8nPufGgcCWs=
+			</data>
+		</dict>
+		<key>Headers/DNPopupController.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OE8lxUMWR6Wni2y6DXwFREim5MTnQThVg02hKCZy8yU=
+			</data>
+		</dict>
+		<key>Headers/DNPopupCustomBarViewController+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BbQB9HHC0ms15tVL2CfYrNNX3fCqVs+yn+q8o7i6tzs=
+			</data>
+		</dict>
+		<key>Headers/DNPopupCustomBarViewController.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7wGDqcpv3oE9aLRicJJ07tHuSP54kZk/JfR5KOWZ4O4=
+			</data>
+		</dict>
+		<key>Headers/DNPopupDefinitions.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bs1u8CQvT4czrByuHOxq4nnhvZ6Mc/3Sqj0Mhw/3Bcw=
+			</data>
+		</dict>
+		<key>Headers/DNPopupInteractionPanGestureRecognizer.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			du0AP+roo1if7Lfr6cV+d05L2p5IzMpY6Aj7EqQk2ls=
+			</data>
+		</dict>
+		<key>Headers/DNPopupItem+Private.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/oAiTIIpehXpGNrlSTDkp/dfrc9ScXaaYv+BlBxYAiQ=
+			</data>
+		</dict>
+		<key>Headers/DNPopupItem.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Px973IfyRuCqlBjEkBO3+S2Pd/g932euTfvudatXkBE=
+			</data>
+		</dict>
+		<key>Headers/DNPopupLongPressGestureRecognizer.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J5oSNhy9sBSx7kJH02QPDuHtCW/C4jqQyKzPLP6u2Q0=
+			</data>
+		</dict>
+		<key>Headers/DNPopupOpenTapGestureRecognizer.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZD6hqz7+Eo89+XL/sJaXan/09yDSclltIN4pfzblNko=
+			</data>
+		</dict>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/FNPEc6jJs2Cq4yyYHiohPrdG6JdDxx2UOW51domuOY=
+			8MXkTXC/AtI2wQ5Fun8I73rvi9BGK+T/DajbD1RXV70=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			us3XfpbO5wc9WR/biWj4+e7GnmITrCTqLzw8hIRGqts=
+			t/qfk+eDpBr3xhUUyIe6xoa5mz5hA29iK9Kcg6B9uUg=
 			</data>
 		</dict>
-		<key>Headers/LNChevronView.h</key>
+		<key>Headers/NSAttributedString+DNPopupSupport.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BgJ6jrjEG3Ndaz7dx2tm9+a+dK21caknoNhmf04/KSU=
+			fU+HQyvRkZZtvJsTl8IHjHdCKFhYJusuqPemBubpVAI=
 			</data>
 		</dict>
-		<key>Headers/LNPopupBar+Private.h</key>
+		<key>Headers/UIContextMenuInteraction+DNPopupSupportPrivate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7X9dNjqR0XLaGoAbJ5WvgcnqXcnFwCEGiW6Oy083tfQ=
+			WHR7p1mVgalxAqatVhFktTWqRkSWZA8jf4WXkZGncgs=
 			</data>
 		</dict>
-		<key>Headers/LNPopupBar.h</key>
+		<key>Headers/UIView+DNPopupSupportPrivate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZyYS5VmBs4fsyDSP1lPrlk5sMk362OkPbqsogOPntCQ=
+			UhvxVvcYU1DGQA6tIey8KkmhIgZJfPyyBlyopJqD8Ww=
 			</data>
 		</dict>
-		<key>Headers/LNPopupCloseButton.h</key>
+		<key>Headers/UIViewController+DNPopupSupport.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tRwiaG7d8wSDi/IdtzWQpoYWDhVzFepk9EeTjxteD6E=
+			TPfwomRvzstushgtsQegJku9a/1RgNIA9mcnqtonuAQ=
 			</data>
 		</dict>
-		<key>Headers/LNPopupContentView.h</key>
+		<key>Headers/UIViewController+DNPopupSupportPrivate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qXnW8KbnJYfazLYr1DFpVspDD6FyxfgVNA52ieS5Fo4=
+			IQVENA/VhjfsVnzMB40zhh0DrZ6MW7Z276UPi8mdsso=
 			</data>
 		</dict>
-		<key>Headers/LNPopupController.h</key>
+		<key>Headers/_DNPopupAddressInfo.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U//Jsp6ne5ZRU5J3vc3H5VYx2e+HD7sPuBJChKo4hUg=
+			4iS8fD5vCeHnwK1oc0VWhhh4tjc769cNgWT3dTHnQcI=
 			</data>
 		</dict>
-		<key>Headers/LNPopupCustomBarViewController+Private.h</key>
+		<key>Headers/_DNPopupBackgroundShadowView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2X9gHaMZK7nBU2J4V/N/RI3ArTfU1YfA2W/5lc7GA2E=
+			d5NVzMi80idry3BdH6VIX+zEfSjfkqpSMNrGnsDURFc=
 			</data>
 		</dict>
-		<key>Headers/LNPopupCustomBarViewController.h</key>
+		<key>Headers/_DNPopupBarBackgroundMaskView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PLFPtQsGXAqy3sXOfnExcU6n6HWEvr197/J0UBRW41E=
+			3fgWzSxcDH9CrPMyv9wIHK/0I7hRoWCGhM/QKZum8eA=
 			</data>
 		</dict>
-		<key>Headers/LNPopupItem.h</key>
+		<key>Headers/_DNPopupBarBackgroundView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			trFw+FtE+XnDvmYnRTeZjme4be8WJDM4+4HixvLCii4=
+			xF8To5usWtomMfB/eKtX/U9HltjIxDfCpYXToEnHSpE=
 			</data>
 		</dict>
-		<key>Headers/UIViewController+LNPopupSupport.h</key>
+		<key>Headers/_DNPopupBarShadowedImageView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t7Jjeivzi4/WlCIOMANry1dSRdH2OWIbi9UDnKqt/f4=
+			blD5tH9JuTuXgqTZNYte9Pz0vDIDBBZGnp1lgP0gHh0=
 			</data>
 		</dict>
-		<key>Headers/UIViewController+LNPopupSupportPrivate.h</key>
+		<key>Headers/_DNPopupUIBarAppearanceProxy.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2wFRmJlSLswFfDSEPX6B/dvW7jPbvXQM7t2uk1el+xc=
+			OXSvocivpR0gIkdrxyYiTmggfxTqGYlDbu7jEBVMJn4=
+			</data>
+		</dict>
+		<key>Headers/_DNWeakRef.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MZF/HuoeXlG3X1u3xKM+A2qIstRWm1ht1rZNSO0cOiQ=
 			</data>
 		</dict>
 		<key>HomeBillBoardCentreCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F17kgnVxa0FVPvazhPjqRdufLnZw3oQR+0ZlrdHOZhY=
+			GjEjkPDiK6M9wFYgQZx66F9/XfO1ZDeeU8H03JgLF/E=
 			</data>
 		</dict>
 		<key>HomeBillboardCell.nib</key>
@@ -1901,7 +2140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8dxWYI/sG4LMV6PwVV9hUJkaxzYEsA42ZonvC8NYAo=
+			gYHZhFm3Xy80MQyqFrPJjELoVoS2l2lXYkNWqDtCxcI=
 			</data>
 		</dict>
 		<key>HomePlayerVC.nib</key>
@@ -1929,7 +2168,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NgfIlPdMsOlW93OqJC2MKPxUdxeNvqleZtwDLbgyAgc=
+			2nCnYG4lHYBfxhrdGCECI0NhFJJK3UKyJebT5AF29d0=
 			</data>
 		</dict>
 		<key>HomeYTPlayer.nib</key>
@@ -1937,6 +2176,13 @@
 			<key>hash2</key>
 			<data>
 			8h6bm/z2NMZg2KOZFBfrK2+AfBRcnA6CdOgH9yUxdf0=
+			</data>
+		</dict>
+		<key>IbadahHome.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QFo7VOmLqa5mf/eiBHn0KoJPLnVZwc86hXvd5RVmcSg=
 			</data>
 		</dict>
 		<key>ImageCell.nib</key>
@@ -2132,35 +2378,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2e+FO3Td7H3siZB4nvj87jzvAm+BAAP3rCWxKmYHsE=
+			V4UlJwrBn+dNoYcVwvA5Cc8Qp8VhuJEyXzoI55abuj4=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TEQTISz16VAqsM8/VFs0mc8OXwAAUtIRnOdBs1ebEwU=
+			ddvYcMb8BSo97GRq2tXZBdH8vA5j/LhD30Kyosc14xA=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X7PCh/o3d8yMVJW01Ansil+nQO1HlJci3KYnk45BZ68=
+			u3GGfGOTHiTGEV11EW3quD8EXWaXfdrxwkVdgUvjwuM=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TEQTISz16VAqsM8/VFs0mc8OXwAAUtIRnOdBs1ebEwU=
+			ddvYcMb8BSo97GRq2tXZBdH8vA5j/LhD30Kyosc14xA=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BommhMganEKOkRcZZdnYWXtIDw4rNuzpMg0CvXKIrF8=
+			CFMDRBzxk0bDzFDO2xiL3iGnT5sSuc4LsT7W3sf0QCg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2195,7 +2441,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bv5qb+UxedGwhQC3t3gkVXzmN7zjIc3FLHsIDjaMXVY=
+			vDe8C42UCHOlK8AO0lrwwN1TS6lpxgjcetuN/LH4mp0=
 			</data>
 		</dict>
 		<key>NamazLearningSubCategoryDetailsVC.nib</key>
@@ -2237,7 +2483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/oBSeWpoF0ZPC5oDeaZ/JExTAUBtwRirDdHUleMaQiQ=
+			CSRwBWAdL1qUXYaSzPbdOudjEhX6E4kaOd6+YxNIF/g=
 			</data>
 		</dict>
 		<key>NameCard.nib/objects-14.0+.nib</key>
@@ -2356,7 +2602,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5t8eh+OshMMD5N5+8aGchJ04IcWer9lqDeYoPKeLMIs=
+			j6ZMIdY+HGxvjKK45NK4mNLLM6c8dHS5ol0b851FSDQ=
 			</data>
 		</dict>
 		<key>PlayerLearningDetailsVC.nib</key>
@@ -2401,6 +2647,13 @@
 			wEKqPrg4Se3WtjH2NFW+X3Emoq07KDGPvN8xom/iS/U=
 			</data>
 		</dict>
+		<key>PrayerCommonCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DZLabHHMhaqFC+OXIZTu++IssMAYBGCHervYg2lJsWQ=
+			</data>
+		</dict>
 		<key>PrayerDetailsCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2419,7 +2672,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Z/GP0l5TPqjDSB8rdzwNDJIfmX08H+bxQxlPA4ssn4=
+			rzQSkVWhNDXj7lU3A/4gTpx5lpVa7iqEcrKqd/HHYbk=
 			</data>
 		</dict>
 		<key>PrayerLearningFooter.nib</key>
@@ -2503,7 +2756,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WTX33ttd1ROt1rpaIq6x+kTweMrCtlznx2enk9wyBYU=
+			qbeAl3HUrM1mIQflQqljsFk2C7L8I4iWeFagN+Mgzfg=
 			</data>
 		</dict>
 		<key>PrayerTimeVC.nib</key>
@@ -2545,7 +2798,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZ7BXzI4GTufxkhyIBX5m/JJIHlOsI7XPE7JiWc3wtk=
+			sl3zVx+U8tEu2cKXItDjuN/BoqM9eIcVWwrTBZcfKcw=
 			</data>
 		</dict>
 		<key>QurabaniPlayerView.nib</key>
@@ -2594,7 +2847,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2tyIM1jyFyulEgj1vYdKiMNEcjKA0ujWkjpUABgzpEg=
+			vdrNKnWCp+Z4/fqIm4NraxG6NKcMFY2d6Z93Aj7PSr8=
 			</data>
 		</dict>
 		<key>QuranPlayerVC.nib</key>
@@ -2636,7 +2889,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aqUdS5yD43BmQgLQXPcZW9pdGp9YxSpU+N4LdcEw6JA=
+			ca3VPGFfPQ4+I+WypaffO9K6yKKA+k5Hx35loHOI7z0=
 			</data>
 		</dict>
 		<key>QurbaniCategoryCell.nib</key>
@@ -2671,7 +2924,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rRFHKd1jhLGCTYlLFaQtBGCqJH/qPdKBYka+QA+JUSA=
+			Hibkkxcz7SpUm4gzIRnov41LAHhslxi3zelaXyb3IDg=
 			</data>
 		</dict>
 		<key>RamadanCalender.nib</key>
@@ -2755,7 +3008,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJAHSoIyeVzM9Dju8nQjbqH2DVjNOoeWCNRYW5iJGfQ=
+			9qQ9es1pc9KUPWfYylEkkv1v1n3A/22T5wMv2cdV19s=
 			</data>
 		</dict>
 		<key>SuraDetailsCell.nib</key>
@@ -2769,7 +3022,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vFI+KufrPPONuE+6xIcsf/R+ugTrPyhXIzyjaTmE2OY=
+			zKxN4LKS7HtmB4nt4coyJAzO35i1VtBCG2E3KLI2SUc=
 			</data>
 		</dict>
 		<key>SuraVC.nib</key>
@@ -2860,14 +3113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XWJf0LnVvixrGk1cQv7bNBQHyhIZKp0wRq5Lm0jyxFw=
+			vVXvjUy94XKVKe5SlPjdGTA8FCw9BCADtes/JgYCLO4=
 			</data>
 		</dict>
 		<key>TimeCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OHhkasNLIQfzYo/w75FJtf2CIS3xbow4ljOAyA6BTTc=
+			lIc8TeWMNSu+V4we1JewwTyOcSDIzWA+9MUeyUXlzmc=
 			</data>
 		</dict>
 		<key>TimeDetails.nib</key>
@@ -2909,7 +3162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l/nvIf6WonXpP6dudnQEKiRlFMfYjsmHwUcYvTIRzeM=
+			QgsSBlF3iIJN/Spt9BDNiwvQYmds6LoegMQeMnGcCns=
 			</data>
 		</dict>
 		<key>WhenSubcribedCell.nib</key>
@@ -3000,7 +3253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gX4e9kzSyhJX+WuM+E34jbvTgzG7mlyCwTsvm9adjDg=
+			gDvyL7kk5b6f5jqiA4RBuiTSro33lMiKuW2uY7nRXT4=
 			</data>
 		</dict>
 		<key>ZakatMenuCell.nib</key>
