@@ -62,7 +62,18 @@ class HomeVC: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         sessionTimeButton.isEnabled = true
-        DeenIslamGPSDK.shared.initialize(with: self.tabBarController, nav: self.navigationController!, delegate: self, token: self.token ?? "", isBL: true)
+        
+        
+        // Check if SDK is initialized
+        if DeenIslamGPSDK.shared.isInitialized {
+            // SDK is already initialized
+        } else {
+            // Need to initialize SDK
+            DeenIslamGPSDK.shared.initialize(with: self.tabBarController, nav: self.navigationController!, delegate: self, token: token ?? "", isBL: true)
+        }
+
+        
+        DeenIslamGPSDK.shared.setNavigationController(with: self.tabBarController, nav: self.navigationController!)
     }
     @objc func onKeyboardDone(){
         textField.resignFirstResponder()

@@ -414,6 +414,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
 @interface DeenIslamGPSDK : NSObject
+@property (nonatomic, readonly) BOOL isInitialized;
 /// initilizer
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
@@ -442,6 +443,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
 /// \param isBL initialize number is BL or not
 ///
 - (void)initializeWith:(UITabBarController * _Nullable)tabBar nav:(UINavigationController * _Nonnull)nav delegate:(id <DeenIslamSDKNotifier> _Nonnull)delegate token:(NSString * _Nonnull)token isBL:(BOOL)isBL;
+- (void)setNavigationControllerWith:(UITabBarController * _Nullable)tabBar nav:(UINavigationController * _Nonnull)nav;
 - (void)gotoHome;
 - (void)gotoWithFeature:(enum AppFeature)feature;
 - (void)eventRegisterWith:(UIEvent * _Nonnull)event;
@@ -1655,6 +1657,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
 @interface DeenIslamGPSDK : NSObject
+@property (nonatomic, readonly) BOOL isInitialized;
 /// initilizer
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
@@ -1683,6 +1686,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
 /// \param isBL initialize number is BL or not
 ///
 - (void)initializeWith:(UITabBarController * _Nullable)tabBar nav:(UINavigationController * _Nonnull)nav delegate:(id <DeenIslamSDKNotifier> _Nonnull)delegate token:(NSString * _Nonnull)token isBL:(BOOL)isBL;
+- (void)setNavigationControllerWith:(UITabBarController * _Nullable)tabBar nav:(UINavigationController * _Nonnull)nav;
 - (void)gotoHome;
 - (void)gotoWithFeature:(enum AppFeature)feature;
 - (void)eventRegisterWith:(UIEvent * _Nonnull)event;
