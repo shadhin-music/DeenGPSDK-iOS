@@ -25,7 +25,7 @@ class C: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
-        DeenIslamGPSDK.shared.initialize(with: self.tabBarController, nav: self.navigationController!, delegate: self, token: "", isBL: true)
+    
         
     }
     
@@ -38,7 +38,7 @@ class C: UIViewController {
         }
 
         @objc private func gotoDenAction() {
-            DeenIslamGPSDK.shared.gotoHome()
+            DeenIslamGPSDK.shared.gotoHome(tabBar: self.tabBarController, nav: self.navigationController!)
         }
 
     
