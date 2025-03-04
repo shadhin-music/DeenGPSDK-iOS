@@ -8,13 +8,13 @@
 		<data>
 		naPwUrxWEtFsxmSTua4zTA/xdSE=
 		</data>
+		<key>AllNotification.nib</key>
+		<data>
+		B+yepY9/ORvwH8BzH0mcseFWBfk=
+		</data>
 		<key>AllSurahVC.nib</key>
 		<data>
 		mX8CfvGj2EKiya9HQKyQxRgqTZU=
-		</data>
-		<key>AllahNamesCell.nib</key>
-		<data>
-		q4sXXa3kgAf2iO/wPtY+iMgMi5c=
 		</data>
 		<key>AllahNamesHeader.nib</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		LsaCMKRBzuhW5SI6QeG2/QWEgCQ=
+		AHP9mqAWy88Zc/zdJDqcn9Moybo=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>CardCell.nib</key>
 		<data>
-		2rUEbBDoUJhD/r40premO/6l4g8=
+		o7TGgqpDH0UvhmiO1u/QoZlNRn0=
 		</data>
 		<key>CatFooter.nib</key>
 		<data>
@@ -212,6 +212,14 @@
 		<data>
 		1FwSC/4t9gxUbr3vo3zuRohBNGk=
 		</data>
+		<key>FajayelMasayelDetails.nib</key>
+		<data>
+		ekLlaboTaMYNnXgDNez2gd4minY=
+		</data>
+		<key>FajayelMasayelVC.nib</key>
+		<data>
+		k+ILBeWYQ2adw5hAb3L+z9f8qjw=
+		</data>
 		<key>FavCell.nib</key>
 		<data>
 		axro7oxElz9Tprza31nfXVsVJt4=
@@ -230,7 +238,7 @@
 		</data>
 		<key>FilterCell.nib</key>
 		<data>
-		aUWWmOpqBCaQkjku0Gpvf/6IFb0=
+		3brmVF/WvOrIsUpUcCB2BgQOC0I=
 		</data>
 		<key>FiveWaqtVC.nib</key>
 		<data>
@@ -430,7 +438,7 @@
 		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		B+c/hrwc4INuzMwCcb3wS0VO34E=
+		i6J0G829d8548sVqq7HAezdgZ8c=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
@@ -654,11 +662,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		RuV/5VTJ9N+9MrOEHFCxEaoHgO8=
+		UVvKtnxnKViNPvd2d7wa/aRvuTk=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		pLB7PBWoEqXM/z4/+ZVtoxs0b2Y=
+		IHAIowPrl2wbZ8mboDkZb2gL3OY=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -666,11 +674,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		pLB7PBWoEqXM/z4/+ZVtoxs0b2Y=
+		IHAIowPrl2wbZ8mboDkZb2gL3OY=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7tWDMBX5WCDOfKHnOdJ8nD3O0zA=
+		3FTMS+G+A2ORZW50M+c567/+6dI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -714,15 +722,15 @@
 		</data>
 		<key>NamazLearningVisualVC.nib</key>
 		<data>
-		oP1BJcKnzHvA+voJtxfTNgoPC3E=
+		vGMPKN1rf4r9GH8l9Bbp2+22wEQ=
 		</data>
 		<key>NameCard.nib/objects-14.0+.nib</key>
 		<data>
-		wtiUAukM1KCnc5CV1BG0b+VPlI8=
+		sRFma+5AZZOMO8bv9W/8I/qxUb8=
 		</data>
 		<key>NameCard.nib/runtime.nib</key>
 		<data>
-		Kx6CrQoJWara+tqWEKI4TY7UqMg=
+		q7Y0yKP5ukmZu32Ut9wyAz/78e4=
 		</data>
 		<key>NameCategoreyDetailsVc.nib</key>
 		<data>
@@ -786,7 +794,7 @@
 		</data>
 		<key>PlayerLearningDetailsVC.nib</key>
 		<data>
-		KdS6leTp2Ri909xKxtNbyNkyYcw=
+		WkAYqOM3npPjQvdYYWzR7jLbIok=
 		</data>
 		<key>PlayerViewCollectionCell.nib</key>
 		<data>
@@ -862,7 +870,7 @@
 		</data>
 		<key>PrayerTimeImageDataCRVCell.nib</key>
 		<data>
-		B+qJz2DyEIRDyIXt+Ju4zgm2N/E=
+		mG00WTbHXHR/VnM4urgdthX4Lhw=
 		</data>
 		<key>PrayerTimeImageDataCell.nib</key>
 		<data>
@@ -870,7 +878,7 @@
 		</data>
 		<key>PrayerTimeNotificationVC.nib</key>
 		<data>
-		0TP70Lqu6GfRWKzzLcyeIQeSnCg=
+		B4pQ01yOFlxquP1mu7qnBOOhC7o=
 		</data>
 		<key>PrayerTimeVC.nib</key>
 		<data>
@@ -964,6 +972,10 @@
 		<data>
 		wx03Q/ug8poHZAMTy9D+YGKjtHg=
 		</data>
+		<key>RRTimeDataCell.nib</key>
+		<data>
+		Y28WJIMEJNyP0e4PC0T/vHx0fSc=
+		</data>
 		<key>RamadanCalendarCell.nib</key>
 		<data>
 		ME9ehYUI6okQvHSqOj+CYZ6uLNM=
@@ -971,6 +983,10 @@
 		<key>RamadanCalender.nib</key>
 		<data>
 		poJGeelIY6YQccF5eyeKgbUAzlE=
+		</data>
+		<key>RamadanRegularVC.nib</key>
+		<data>
+		Iv3idgrOs/JXuYUTYiUhcJ1mBVY=
 		</data>
 		<key>RamadanVC.nib</key>
 		<data>
@@ -1038,11 +1054,11 @@
 		</data>
 		<key>TasbeehVC.nib</key>
 		<data>
-		B6pir2vocYDZzdMlo7PYSUihip0=
+		Z0TVUj+g8qjyOS5735dDk+nWicE=
 		</data>
 		<key>TashbeeResetVC.nib</key>
 		<data>
-		dJNF6Q6E2sIzSf7ygGVLzJEt9IM=
+		aiEbU77mJOoFxQ4B1r1OKBYTTxU=
 		</data>
 		<key>TashbeehHomeInfoCell.nib</key>
 		<data>
@@ -1074,7 +1090,7 @@
 		</data>
 		<key>TextCell.nib</key>
 		<data>
-		jkGD+fNb+R3Cnsbp/PMmLWfnGAk=
+		L1NlVIzR/51xBc5aMgFjuZdyDJU=
 		</data>
 		<key>TimeCell.nib</key>
 		<data>
@@ -1082,7 +1098,7 @@
 		</data>
 		<key>TimeDetails.nib</key>
 		<data>
-		YiG2kyyU/V8aD2j+msui6DCkpRw=
+		R8rUC/aBroB5gpX1FEP2/C2h91s=
 		</data>
 		<key>TodaysDuaCell.nib</key>
 		<data>
@@ -1200,7 +1216,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2NAD+nfODMgk4mlWAhIdTJKMD8w=
+			LDP5AS8gGTMqm9huZ1DvMLWcOF8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1232,18 +1248,18 @@
 			TgQECTU0+Lzjiu3awDscC5/DymttK9V05Hox6n+nHnw=
 			</data>
 		</dict>
+		<key>AllNotification.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			56t/LFY8GF8feN2F4OfGX3dOOSg/iLs+9eG6ZtehkoY=
+			</data>
+		</dict>
 		<key>AllSurahVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			qNqzP1gnrvA7D0kvAaEVBewMrQxRYBv9bI5jBs2PFcM=
-			</data>
-		</dict>
-		<key>AllahNamesCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9o6L3HZEGJWx+wW8BXebfQb9RTdY8uuxd8GRWT519s8=
 			</data>
 		</dict>
 		<key>AllahNamesHeader.nib</key>
@@ -1257,7 +1273,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3dhi/fQdKZhsTknvnaCKc+NGXE9XvvGWFlR3l4qLRpM=
+			+tPfgwExbcKnoQFiQH+omRHXllLshP685XA2LHFVgv4=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1327,7 +1343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWAGgvtjnicKUvI8jNPA7EyfqroHYOIFksePA6kXq9E=
+			k7zjMn81AcU7spvqkamdV03gYhkc+1pG7qFenOiSHfU=
 			</data>
 		</dict>
 		<key>CatFooter.nib</key>
@@ -1589,6 +1605,20 @@
 			q8gD9oUsUHAK5YD0LyMAnyxtjZf3+pq+U4NT0RS8QNA=
 			</data>
 		</dict>
+		<key>FajayelMasayelDetails.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3zTN6F/+5Hh4A3sUKlVc6gFHk3D94B6bMkbiZcJi2GQ=
+			</data>
+		</dict>
+		<key>FajayelMasayelVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cMZecO6D9wx0t5OWOVB1QGtmeoE/PhrgkjIYH60FxUc=
+			</data>
+		</dict>
 		<key>FavCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1621,7 +1651,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p/6OeAYW/8uuwdrJj4spN770i0g5bWaAsXJ656wJgZM=
+			SI6go1DYyAVwx6tG7Geg8wrgUhEl+i37PTvNBE/Q4jc=
 			</data>
 		</dict>
 		<key>FiveWaqtVC.nib</key>
@@ -1971,7 +2001,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zy9DMGVBsknTTSzbDgBEdoK6Vx2B3zm+QsSlUO74XQo=
+			MbULLeT09mJKtxMS4hl+38K9MfunF1AHJJVRv6y9Mvk=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
@@ -2356,14 +2386,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2FZL7WT2TjyNwNYXiN+vNux89HL8BJTR+N2R3+H8Z74=
+			KlUX8FpSSkVyoc5oNhdnrfqwXMwiKbhcDjpksrXtspc=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F+sj85WcRHFutrNAfC7+F60iezTvzol6XTx+FT4nUV8=
+			nVeik5JK9A3cZeAtYGMEhUdKlukpGuEkCkrzi6r8d4s=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -2377,14 +2407,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F+sj85WcRHFutrNAfC7+F60iezTvzol6XTx+FT4nUV8=
+			nVeik5JK9A3cZeAtYGMEhUdKlukpGuEkCkrzi6r8d4s=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0+6LB+T4IgRBDJ3iDsQG4JxiWyxS2V2CCFYvz5SIr5U=
+			ceDX7ivS1D/zFgXZokmvWAJIlXEWARwxN5F1yN891h0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2461,21 +2491,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CSRwBWAdL1qUXYaSzPbdOudjEhX6E4kaOd6+YxNIF/g=
+			cm1JpwB2U2beSPFcSsVLeDx8NOvopQreKpNW3BEgWKA=
 			</data>
 		</dict>
 		<key>NameCard.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ln3IzYhvMk2d+2Hzy7pTGPyBVPtOptKUNspRm/FfvIY=
+			zCbUvXO6Ez0e4xjgOA+X5JEZFrTPIYGXc5z4MY0qNEA=
 			</data>
 		</dict>
 		<key>NameCard.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M68S/99yrXKRFmByYPZSRmjd3nDUR8EbXrlVGW62924=
+			RE1T9ksrcY7kB7T3uCrZ+9e4FD+6wiZJkrPInS9u/w4=
 			</data>
 		</dict>
 		<key>NameCategoreyDetailsVc.nib</key>
@@ -2587,7 +2617,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d26XaKC5R8h4CQ1nv8iPg1oa6cwrlRRMssLkQOxDWvs=
+			0fLi4e4azMf1X6c+BMhS5/Eeuxa5VmpUM+w4BiD114c=
 			</data>
 		</dict>
 		<key>PlayerViewCollectionCell.nib</key>
@@ -2720,7 +2750,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8qjTkjz6rw0YBC8ClobZyRpB27SH1gD2zVZbEk9mUg=
+			cXAQDmzB0WKGW0MYFTuH5nBBcmhCSahoRcO2xEA7eQI=
 			</data>
 		</dict>
 		<key>PrayerTimeImageDataCell.nib</key>
@@ -2734,7 +2764,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbeAl3HUrM1mIQflQqljsFk2C7L8I4iWeFagN+Mgzfg=
+			DaotjoUdkQAWjA0QDmeyg3nwWduvV7SYoQOVOWLlimQ=
 			</data>
 		</dict>
 		<key>PrayerTimeVC.nib</key>
@@ -2898,6 +2928,13 @@
 			RaykJvhppMyW8uLa0AnwVD4KqWB+KxHxPtt0ycl65Cg=
 			</data>
 		</dict>
+		<key>RRTimeDataCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5SkFWlMx0JqwFJyZdF2TI7SdizXNDvTjipSDyi6kgXc=
+			</data>
+		</dict>
 		<key>RamadanCalendarCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2910,6 +2947,13 @@
 			<key>hash2</key>
 			<data>
 			rzvqryTaRsXthhn4U+FlnaAXEcMnSEgihkO+NQgoYUg=
+			</data>
+		</dict>
+		<key>RamadanRegularVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EPo3KpL4bWuSt/Fig6XFSZKJuMuKGYAZs0SfzJ5fZ50=
 			</data>
 		</dict>
 		<key>RamadanVC.nib</key>
@@ -3028,14 +3072,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Y5ulA4xqZYF2c9/D9hOjs3Gkt/xVEkj8m/3qSbo7Q0=
+			4R2CHFaolFrK3dNSULXz/aSUnNfp1AfXU7OKHAqmBv8=
 			</data>
 		</dict>
 		<key>TashbeeResetVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T9G4wNQTOTJZDqUTWUZyDIQZzsP0Uz5k720PNGqFluU=
+			LAiwCvt2N3i8lKpFCQBp7NabPoJwWNNiBwdvb4m1bVk=
 			</data>
 		</dict>
 		<key>TashbeehHomeInfoCell.nib</key>
@@ -3091,7 +3135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vVXvjUy94XKVKe5SlPjdGTA8FCw9BCADtes/JgYCLO4=
+			MqDBsHeex54DKFcXnAN9UjUABuIGkX+Z0ZzFfe/L9EQ=
 			</data>
 		</dict>
 		<key>TimeCell.nib</key>
@@ -3105,7 +3149,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i/8Iei7bEgdlHEP2XyOo6MF7r+Yvj4wixivVPpUHF94=
+			1/kzZ9pTNXtFvKDJV4qZDFiroOFF0T/MskU22/YJlfY=
 			</data>
 		</dict>
 		<key>TodaysDuaCell.nib</key>
@@ -3308,7 +3352,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RPT1GwJbOo0q0/2KOkxQda7EFQXbaakwj7iHWQpY0U8=
+			R4b/2I44K9cbjsUesaSLXFsyIPi2POPWQJ5aSfaYMaI=
 			</data>
 			<key>optional</key>
 			<true/>

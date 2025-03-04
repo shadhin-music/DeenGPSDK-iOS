@@ -1921,10 +1921,6 @@ extension Foundation.NSNotification.Name {
   open func cleanOldFiles(completion handler: (() -> ())? = nil)
   @objc deinit
 }
-public enum DeenError : Swift.Error {
-  case urlInvalided(Swift.String)
-  case error(Swift.String)
-}
 public protocol URLConvertible {
   func asURL() throws -> Foundation.URL
 }
@@ -1936,6 +1932,10 @@ extension Foundation.URL : DeenIslamSDK.URLConvertible {
 }
 extension Foundation.URLComponents : DeenIslamSDK.URLConvertible {
   public func asURL() throws -> Foundation.URL
+}
+public enum DeenError : Swift.Error {
+  case urlInvalided(Swift.String)
+  case error(Swift.String)
 }
 @objc public enum AppFeature : Swift.Int {
   case home

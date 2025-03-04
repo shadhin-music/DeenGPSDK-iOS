@@ -585,6 +585,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 
 
 
+
 SWIFT_CLASS("_TtC12DeenIslamSDK8VGPlayer")
 @interface VGPlayer : NSObject
 - (nonnull instancetype)init;
@@ -1329,6 +1330,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 @interface UIButton (SWIFT_EXTENSION(DeenIslamSDK))
 - (UIView * _Nullable)hitTest:(CGPoint)point withEvent:(UIEvent * _Nullable)event SWIFT_WARN_UNUSED_RESULT;
 @end
+
 
 
 

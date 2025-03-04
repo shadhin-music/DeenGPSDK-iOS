@@ -585,6 +585,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK16LayoutConstraint")
 
 
 
+
 SWIFT_CLASS("_TtC12DeenIslamSDK8VGPlayer")
 @interface VGPlayer : NSObject
 - (nonnull instancetype)init;
