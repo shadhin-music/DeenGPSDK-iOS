@@ -167,7 +167,7 @@ extension HomeVC : UITableViewDataSource,UITableViewDelegate{
         case 16:
             DeenIslamGPSDK.shared.goto(feature: .islamicLearningStory, tabBar: self.tabBarController, nav: self.navigationController!)
         case 17:
-            DeenIslamGPSDK.shared.goto(feature: .ramadan, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamGPSDK.shared.goto(feature: .rramadan, tabBar: self.tabBarController, nav: self.navigationController!)
         case 18:
             DeenIslamGPSDK.shared.goto(feature: .KhotomQuran, tabBar: self.tabBarController, nav: self.navigationController!)
         case 19:

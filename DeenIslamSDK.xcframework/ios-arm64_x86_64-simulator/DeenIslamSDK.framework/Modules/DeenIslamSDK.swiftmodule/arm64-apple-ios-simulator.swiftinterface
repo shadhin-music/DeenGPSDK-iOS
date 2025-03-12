@@ -1956,6 +1956,7 @@ public enum DeenError : Swift.Error {
   case duaAndAmol
   case islamicLearningStory
   case ramadan
+  case rramadan
   case HajjAndUmrah
   case KhotomQuran
   case Qurbani
