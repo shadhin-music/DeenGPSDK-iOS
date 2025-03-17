@@ -74028,7 +74028,7 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/KhotomeQuranServiceProtocol.swift",
       "kind": "StringLiteral",
       "offset": 400,
-      "length": 51,
+      "length": 61,
       "value": "\"\""
     },
     {
@@ -74036,7 +74036,7 @@
       "kind": "StringLiteral",
       "offset": 431,
       "length": 1,
-      "value": "\"\/Quran\/KhotomeQuran\""
+      "value": "\"\/Quran\/NewKhotomeQuranRamadan\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/NewIslamicNameService.swift",
@@ -75883,41 +75883,41 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
       "kind": "StringLiteral",
       "offset": 482,
-      "length": 33,
-      "value": "\"https:\/\/api.deenislamic.com\/api\""
+      "length": 35,
+      "value": "\"https:\/\/blapi.deenislamic.com\/api\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
       "kind": "StringLiteral",
-      "offset": 558,
-      "length": 38,
-      "value": "\"https:\/\/services.deenislamic.com\/api\""
+      "offset": 560,
+      "length": 40,
+      "value": "\"https:\/\/blservices.deenislamic.com\/api\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
       "kind": "StringLiteral",
-      "offset": 639,
+      "offset": 644,
+      "length": 39,
+      "value": "\"https:\/\/bltracker.deenislamic.com\/api\""
+    },
+    {
+      "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
+      "kind": "StringLiteral",
+      "offset": 726,
       "length": 53,
       "value": "\"https:\/\/islamic-content.sgp1.digitaloceanspaces.com\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
       "kind": "StringLiteral",
-      "offset": 734,
-      "length": 35,
-      "value": "\"https:\/\/mygp-home.deenislamic.com\""
-    },
-    {
-      "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
-      "kind": "StringLiteral",
-      "offset": 1342,
+      "offset": 1356,
       "length": 9,
       "value": "\"myblsdk\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/ApiService.swift",
       "kind": "StringLiteral",
-      "offset": 1383,
+      "offset": 1397,
       "length": 12,
       "value": "\"h8JD1vNStY\""
     },
@@ -77374,76 +77374,76 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
       "offset": 7372,
-      "length": 5,
-      "value": "\"khq\""
+      "length": 6,
+      "value": "\"rkhq\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7400,
+      "offset": 7401,
       "length": 4,
       "value": "\"qc\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7424,
+      "offset": 7425,
       "length": 6,
       "value": "\"qurb\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7449,
+      "offset": 7450,
       "length": 4,
       "value": "\"hd\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7477,
+      "offset": 7478,
       "length": 7,
       "value": "\"99noa\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7508,
+      "offset": 7509,
       "length": 4,
       "value": "\"lp\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7535,
+      "offset": 7536,
       "length": 5,
       "value": "\"qrs\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7568,
+      "offset": 7569,
       "length": 5,
       "value": "\"isc\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7593,
+      "offset": 7594,
       "length": 5,
       "value": "\"rot\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7619,
+      "offset": 7620,
       "length": 4,
       "value": "\"rr\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/HomeResponse.swift",
       "kind": "StringLiteral",
-      "offset": 7643,
+      "offset": 7644,
       "length": 5,
       "value": "\"ida\""
     },
@@ -80174,111 +80174,111 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
       "offset": 6371,
-      "length": 5,
-      "value": "\"khq\""
+      "length": 6,
+      "value": "\"rkhq\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6392,
+      "offset": 6393,
       "length": 4,
       "value": "\"du\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6413,
+      "offset": 6414,
       "length": 4,
       "value": "\"ri\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6436,
+      "offset": 6437,
       "length": 4,
       "value": "\"hd\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6461,
+      "offset": 6462,
       "length": 6,
       "value": "\"imas\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6495,
+      "offset": 6496,
       "length": 5,
       "value": "\"fnm\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6523,
+      "offset": 6524,
       "length": 6,
       "value": "\"cacl\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6545,
+      "offset": 6546,
       "length": 6,
       "value": "\"subs\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6576,
+      "offset": 6577,
       "length": 6,
       "value": "\"pldp\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6607,
+      "offset": 6608,
       "length": 9,
       "value": "\"pvisual\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6635,
+      "offset": 6636,
       "length": 6,
       "value": "\"pldd\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6660,
+      "offset": 6661,
       "length": 8,
       "value": "\"ptrack\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6687,
+      "offset": 6688,
       "length": 8,
       "value": "\"prakat\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6712,
+      "offset": 6713,
       "length": 6,
       "value": "\"menu\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6736,
+      "offset": 6737,
       "length": 6,
       "value": "\"ptub\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/QurbaniResponse.swift",
       "kind": "StringLiteral",
-      "offset": 6759,
+      "offset": 6760,
       "length": 4,
       "value": "\"sd\""
     },
