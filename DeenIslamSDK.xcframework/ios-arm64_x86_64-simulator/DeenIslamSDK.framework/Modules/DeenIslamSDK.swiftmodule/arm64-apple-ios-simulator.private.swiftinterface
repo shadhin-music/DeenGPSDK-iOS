@@ -177,6 +177,7 @@ extension DeenIslamSDK.ConstraintAttributesDSL {
 @objc public protocol DeenIslamSDKNotifier : ObjectiveC.NSObjectProtocol {
   @objc func tokenStatus(token isValid: Swift.Bool, error: Swift.String?)
   @objc func errorMessage(error: Swift.String)
+  @objc func deenPaymentEvent(eventName: Swift.String, parameters: [Swift.String : Swift.String])
 }
 @_hasMissingDesignatedInitializers public class ConstraintMakerRelatable {
   @discardableResult

@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		JVTbdv6YI2+gbakH82ae7v9Zsk4=
+		n1qh4+70yOVcVlKznkJzJS202T0=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -103,6 +103,14 @@
 		<key>CompassVC.nib</key>
 		<data>
 		Xl00KnWHaC3FXhNt6B0UqZ4y/ws=
+		</data>
+		<key>ContentDetailsCell.nib</key>
+		<data>
+		vHotnu5f3iRCP62+rloF+Siftbw=
+		</data>
+		<key>ContentDetailsRightCell.nib</key>
+		<data>
+		bTN4W1/BbUpN71D7UMMiizk8CPE=
 		</data>
 		<key>CustomPopUpView.nib</key>
 		<data>
@@ -220,6 +228,10 @@
 		<data>
 		k+ILBeWYQ2adw5hAb3L+z9f8qjw=
 		</data>
+		<key>FaqCell.nib</key>
+		<data>
+		DfPjKJXnBTXDVRmd5sVRDPgILok=
+		</data>
 		<key>FavCell.nib</key>
 		<data>
 		axro7oxElz9Tprza31nfXVsVJt4=
@@ -239,6 +251,10 @@
 		<key>FilterCell.nib</key>
 		<data>
 		3brmVF/WvOrIsUpUcCB2BgQOC0I=
+		</data>
+		<key>FirstCell.nib</key>
+		<data>
+		9Oaa4ncEllP+i0mnj+ApIArITGk=
 		</data>
 		<key>FiveWaqtVC.nib</key>
 		<data>
@@ -340,6 +356,10 @@
 		<data>
 		ueC/jQA6tjTK/pxoG1g8ZcUVJPo=
 		</data>
+		<key>HajjJourneyVC.nib</key>
+		<data>
+		e6RjHOBlizyz2zpzAmfHB4uN9UM=
+		</data>
 		<key>HajjSingleCardCell.nib</key>
 		<data>
 		dBhnui2BhayFsvuzlJ/XzcLSx5E=
@@ -438,7 +458,7 @@
 		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		KkQTRELP+Ud+f/GOS/YopTXp93M=
+		ZzYW80zNryJZVPioloJPCE5T3Tc=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
@@ -640,6 +660,10 @@
 		<data>
 		tjYBMhvYvdDyGFxouTi459sq+aI=
 		</data>
+		<key>LeaderBoardVC.nib</key>
+		<data>
+		2WoQ6DSoDb3l3OU89kGap2S2+n0=
+		</data>
 		<key>MenuImageCell.nib</key>
 		<data>
 		jrOfnf+th0StkqnxNktajQIvnqg=
@@ -662,11 +686,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		yYoa2n9L+jInQwELLu5ScT0ufjc=
+		N6E6YNlyGdW0yF9GuK6BDQeZPKs=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+GJW2MpTbkycYLKki6hNLzgr7fI=
+		mL1Bnq3btnecFx8+nsiN3YCvhck=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -674,19 +698,19 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+GJW2MpTbkycYLKki6hNLzgr7fI=
+		mL1Bnq3btnecFx8+nsiN3YCvhck=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ODsHkuvmbqf7rb1parnGMF7Jjyc=
+		Xsw9/T2ukdoV5rmsgfIXfNdlIds=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		yYoa2n9L+jInQwELLu5ScT0ufjc=
+		N6E6YNlyGdW0yF9GuK6BDQeZPKs=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aguWgEcaX6dlMD+xEN4lirdPJoM=
+		h3c14RW8pmFtLaHs/OQLhq7suF0=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -694,11 +718,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aguWgEcaX6dlMD+xEN4lirdPJoM=
+		h3c14RW8pmFtLaHs/OQLhq7suF0=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IXZ3/xK6aN8k1N2Uuidoz+9zoo8=
+		T0NaALhqc5R2970me6RFwIqZ9jg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -924,6 +948,30 @@
 		<data>
 		tfNXhIiS9UIAwaeEiNPi9F3rBW4=
 		</data>
+		<key>QuizDayCell.nib</key>
+		<data>
+		WmPuiVeVDxAiMUhmS5pId4tq4rI=
+		</data>
+		<key>QuizDayDetailsCell.nib</key>
+		<data>
+		7v2kMeehR/GYmmII76JXFPkKySM=
+		</data>
+		<key>QuizPlayer.nib</key>
+		<data>
+		PnEJ9BjP0AqT6vxpG0zrpqQgK2Q=
+		</data>
+		<key>QuizQuestionVC.nib</key>
+		<data>
+		Mb5FBvXxTOmi1sEi0+b4toAcaT8=
+		</data>
+		<key>QuizTopicCell.nib</key>
+		<data>
+		viuD9O5/BzlkI+KKVd98M9Hwsbw=
+		</data>
+		<key>QuizVC.nib</key>
+		<data>
+		0zhN+2dbMJ8o3gP4kJ7sQR2W1Oo=
+		</data>
 		<key>QurabaniPlayerView.nib</key>
 		<data>
 		67OqKSIlg5MSk7+/NZYqHaloxIs=
@@ -1032,6 +1080,10 @@
 		<data>
 		NAoOopMzLEQ/aGaYj2I5hnhWB8M=
 		</data>
+		<key>ScoreListVC.nib</key>
+		<data>
+		yntgoh4fgjaI7xKiOZUh3Dx+KgU=
+		</data>
 		<key>SettingVC.nib</key>
 		<data>
 		QgZZdKmAAlLtlHoWCSHlVdCFUUs=
@@ -1039,6 +1091,10 @@
 		<key>SingleImageCell.nib</key>
 		<data>
 		kynHPX55rIKjqX0KNa1/ScqUsDI=
+		</data>
+		<key>SinglePopUP.nib</key>
+		<data>
+		kwK1NYX8pXRmyiCJCb9nEqJVGHs=
 		</data>
 		<key>SubscriptionHeader.nib</key>
 		<data>
@@ -1110,7 +1166,7 @@
 		</data>
 		<key>TextCell.nib</key>
 		<data>
-		L1NlVIzR/51xBc5aMgFjuZdyDJU=
+		kHCif9srMSaTzATfWPLfvFInK5w=
 		</data>
 		<key>TimeCell.nib</key>
 		<data>
@@ -1136,13 +1192,29 @@
 		<data>
 		GEDVduTVT8pOc20/QUigQY82GsM=
 		</data>
+		<key>VideoCardCell.nib</key>
+		<data>
+		k6dqIE1+67m4b0l7RSlzp0uiqLY=
+		</data>
 		<key>VideoDetailsCell.nib</key>
 		<data>
 		0sYDm9yXH5RszfdH2azso2SktjY=
 		</data>
+		<key>VideoQuizVC.nib</key>
+		<data>
+		7ZsZ6gdoBumRx6Ug9eCfqqeKXns=
+		</data>
 		<key>WhenSubcribedCell.nib</key>
 		<data>
 		G/yHRFhvitavqBFGf8yQErXB/xo=
+		</data>
+		<key>WinnerCell.nib</key>
+		<data>
+		HgS4tMb+WqdykYjbSZfZAtlQdEY=
+		</data>
+		<key>WinnerDetailsCell.nib</key>
+		<data>
+		9VpPdabk4ggYB30hlaydbf+j3r0=
 		</data>
 		<key>YTPlayer.html</key>
 		<data>
@@ -1254,6 +1326,18 @@
 		<data>
 		wVsf2l1Iu25vPMruuKdbx3OtByI=
 		</data>
+		<key>listDetailsCell.nib</key>
+		<data>
+		6tiNK8L2W9QsAMcwlhlhK8IHuAw=
+		</data>
+		<key>placeCell.nib</key>
+		<data>
+		oYG/Y+/yY9J2nK78qv3DjeoEEqo=
+		</data>
+		<key>placeListCell.nib</key>
+		<data>
+		eDN9Mc6zKU2k5NQQE4dnRQILVgA=
+		</data>
 		<key>poshurHut.nib</key>
 		<data>
 		cqXD9d8AUbWi/MMWxGD5+URr5UE=
@@ -1293,7 +1377,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kqT3r6GdUw5MFldj1+ydLrXZvVUlBOwzSjaUCFSxjTo=
+			kM45q1HtzZcc7XjpyBqdQjhRmUrN+sfukz61fdV3jZs=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1434,6 +1518,20 @@
 			<key>hash2</key>
 			<data>
 			gv2M4JWvNhMZJ3jKXiEJjlrNqVWIFFVfOBhWyLLccvw=
+			</data>
+		</dict>
+		<key>ContentDetailsCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JW510rLWC++rK0vwc77mhssZ8Vlt2cYCqucMSW9Rv/A=
+			</data>
+		</dict>
+		<key>ContentDetailsRightCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9jNBmKzPqOK/xzISwXnDKq6mPVM6GhOx95GZVDZ+JgQ=
 			</data>
 		</dict>
 		<key>CustomPopUpView.nib</key>
@@ -1639,6 +1737,13 @@
 			cMZecO6D9wx0t5OWOVB1QGtmeoE/PhrgkjIYH60FxUc=
 			</data>
 		</dict>
+		<key>FaqCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6S0rdutmINdu3quCJ9wqkiyBM9ZT3f8isgSq/Zd4J/E=
+			</data>
+		</dict>
 		<key>FavCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1672,6 +1777,13 @@
 			<key>hash2</key>
 			<data>
 			SI6go1DYyAVwx6tG7Geg8wrgUhEl+i37PTvNBE/Q4jc=
+			</data>
+		</dict>
+		<key>FirstCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8MZFgUrkG474jVf+POu/V3KinMrB22/wJnRVGEHL8ag=
 			</data>
 		</dict>
 		<key>FiveWaqtVC.nib</key>
@@ -1849,6 +1961,13 @@
 			DpToYZiZJQHoXmG8NuKohfYC0eFW1y73nHtNE8oOYGM=
 			</data>
 		</dict>
+		<key>HajjJourneyVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wvuB12FeR5HIDzPUbu6q8UR5S5BireA2pgBaGpATRRo=
+			</data>
+		</dict>
 		<key>HajjSingleCardCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2021,7 +2140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OPUOl6UBRpg230/v4BSVpTFJ4Dc6BaqbVEgObOvJzhw=
+			hp1teQ3vbhI5FnLVHLhti+HKrHlqx3j0SKNu5AImCKU=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
@@ -2367,6 +2486,13 @@
 			2YZ9MKuqVxeckx7obhA3ThZac31INSSL3TGcc0qQZ7E=
 			</data>
 		</dict>
+		<key>LeaderBoardVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iHMuvqP+RV9XmosnLGqG8DwpbMW1pXVebT8TT6RBFDw=
+			</data>
+		</dict>
 		<key>MenuImageCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2406,14 +2532,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SdW1rxJZzEmeUX8PIzgbG29vD/E1Yu68WSYuolCs7QI=
+			6BsfiRJCEqChwXtQCN/543LUoWt2hdoZBHHU7QoTg8s=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fvVZ8PFJ7gQ403fblYNCQlaaAXKIMCEr7zK9Kg4E9aY=
+			0fxmU29UiHNYyaAc18ydUx3CM99eUgKLOKz/SVuqJZM=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -2427,28 +2553,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fvVZ8PFJ7gQ403fblYNCQlaaAXKIMCEr7zK9Kg4E9aY=
+			0fxmU29UiHNYyaAc18ydUx3CM99eUgKLOKz/SVuqJZM=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z+cVlt7Vg8ZqwaJEH3mKDM6MZSaEx4yjH8TxSFBjkkU=
+			xeN5Eba2X2P+NoQHo2nOR6HP9aLOAyD4H4/FqCnvN30=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SdW1rxJZzEmeUX8PIzgbG29vD/E1Yu68WSYuolCs7QI=
+			6BsfiRJCEqChwXtQCN/543LUoWt2hdoZBHHU7QoTg8s=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a08Yqpcvxv9uvVSquCcSvngXSt6Si9hmLllPVNyzzuc=
+			OIFp96eobDts7BYTmTW725Fh+4BBmi+PXeDTPXnlljY=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -2462,14 +2588,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a08Yqpcvxv9uvVSquCcSvngXSt6Si9hmLllPVNyzzuc=
+			OIFp96eobDts7BYTmTW725Fh+4BBmi+PXeDTPXnlljY=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YEWhPpysHp4UCGvF98mePAeSkJvLV3StXG9+J+sjIyA=
+			CX8KH66JuxjitB9RsFrac1sdeJAVyKbMYJeB53tCu5o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2864,6 +2990,48 @@
 			sl3zVx+U8tEu2cKXItDjuN/BoqM9eIcVWwrTBZcfKcw=
 			</data>
 		</dict>
+		<key>QuizDayCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n4aFQ3OgD4FXWzmHS+t/jlvaDKg0EpQrwcT4w3QSHQI=
+			</data>
+		</dict>
+		<key>QuizDayDetailsCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KrE3FJkVHmOVChXfbN1sXZkW5q4fuOHEdnPeUSW6R/Y=
+			</data>
+		</dict>
+		<key>QuizPlayer.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XkwIlPhlk04NJ08pYYtlxRwwSdGImoHAX1+Pzr6EmzM=
+			</data>
+		</dict>
+		<key>QuizQuestionVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tuLjZI2gK/3G/fuqCK6BpB8Nq1pwCt7cJMe4zGM4tPI=
+			</data>
+		</dict>
+		<key>QuizTopicCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ruPhB49EXe0ju8IyBjwU7HniH9UgyIx5QHsFwf8CEIU=
+			</data>
+		</dict>
+		<key>QuizVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DhdiOe2ex8Eu83TRYPiHYInHYPTHecHFV/6j5CTnSMM=
+			</data>
+		</dict>
 		<key>QurabaniPlayerView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3053,6 +3221,13 @@
 			6BXO2t7CIxqua5dSf9yhN+c/hkL90ik4QVF0xiIdT1M=
 			</data>
 		</dict>
+		<key>ScoreListVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dKME0sDxHKj1oxWvPPv9dyCfGAumIIZWHAR5n7Gi97Q=
+			</data>
+		</dict>
 		<key>SettingVC.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3065,6 +3240,13 @@
 			<key>hash2</key>
 			<data>
 			Tfo668mqbzzzQzRSn4CjX/JUZ3btsE3v5rkiqLjKGfU=
+			</data>
+		</dict>
+		<key>SinglePopUP.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hnglKLOdFCSWW2SSYy4Sl379U+MhAEFv4reOd4gVeqo=
 			</data>
 		</dict>
 		<key>SubscriptionHeader.nib</key>
@@ -3190,7 +3372,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MqDBsHeex54DKFcXnAN9UjUABuIGkX+Z0ZzFfe/L9EQ=
+			G6aAq0Y/FRtFjJLU/P6tM3ku327hKtO/AbS/rPxD+iE=
 			</data>
 		</dict>
 		<key>TimeCell.nib</key>
@@ -3235,6 +3417,13 @@
 			/Z1pmIJqGT/3C/jiiiWEQR5qI/VTX1AusRSQIIZu8zg=
 			</data>
 		</dict>
+		<key>VideoCardCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DugdnH1m4elYgY9DZAjL4WCAg9RY7Xdvzq/zyZMt7z0=
+			</data>
+		</dict>
 		<key>VideoDetailsCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3242,11 +3431,32 @@
 			QgsSBlF3iIJN/Spt9BDNiwvQYmds6LoegMQeMnGcCns=
 			</data>
 		</dict>
+		<key>VideoQuizVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4piu7uRidIvTNuZ2P7Zb4BUAdRliOWcaPmWkxZQ8P+c=
+			</data>
+		</dict>
 		<key>WhenSubcribedCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Pcki+Q7dAw2d26WM40ndhn5aHgKFUEmsO0TfUeTjDn0=
+			</data>
+		</dict>
+		<key>WinnerCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6gvMDzBE0P1+tMHIlJ/aV1Hk3IabDX9emimgRm9aKfw=
+			</data>
+		</dict>
+		<key>WinnerDetailsCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Zsx5+R9BuFGL9G5xIsy/f6nTtEMpMZ9/8iLqqL9+tJo=
 			</data>
 		</dict>
 		<key>YTPlayer.html</key>
@@ -3426,6 +3636,27 @@
 			<key>hash2</key>
 			<data>
 			TI8ALnU472NRrGdusPLBcI7NF/b4pfxKGdvI6vTd3/U=
+			</data>
+		</dict>
+		<key>listDetailsCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ayPD29hNhp0eY9OhLMAJ8Z7sssn27ahgPp16r0GLt5w=
+			</data>
+		</dict>
+		<key>placeCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o57OYYqzBm0IJr57axJhrmdpeceBzO/1TNZ4eIG8C8k=
+			</data>
+		</dict>
+		<key>placeListCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jMHjBNVB7pwtI1/xFFDhOYWFCXDei3yfEDwznbgG+Lw=
 			</data>
 		</dict>
 		<key>poshurHut.nib</key>

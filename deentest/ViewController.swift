@@ -9,6 +9,14 @@ import UIKit
 import DeenIslamSDK
 
 class ViewController: UIViewController, DeenIslamSDKNotifier {
+    func deenPaymentEvent(eventName: String, parameters: [String : String]) {
+        print("Payment name: \(eventName)")
+        print("Event parameters:")
+           for (key, value) in parameters {
+               print("\(key): \(value)")
+           }
+    }
+    
     func tokenStatus(token isValid: Bool, error: String?) {
     
     }

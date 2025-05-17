@@ -467,6 +467,7 @@ SWIFT_PROTOCOL("_TtP12DeenIslamSDK20DeenIslamSDKNotifier_")
 /// \param error any error occure this func call with error message
 ///
 - (void)errorMessageWithError:(NSString * _Nonnull)error;
+- (void)deenPaymentEventWithEventName:(NSString * _Nonnull)eventName parameters:(NSDictionary<NSString *, NSString *> * _Nonnull)parameters;
 @end
 
 

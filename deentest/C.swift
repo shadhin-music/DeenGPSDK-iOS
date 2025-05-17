@@ -48,6 +48,14 @@ class C: UIViewController {
 
 
 extension C : DeenIslamSDKNotifier{
+    func deenPaymentEvent(eventName: String, parameters: [String : String]) {
+        print("Payment name: \(eventName)")
+        print("Event parameters:")
+           for (key, value) in parameters {
+               print("\(key): \(value)")
+           }
+    }
+    
     func errorMessage(error: String) {
         
     }
