@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		hs5xoiUeVTfTcpViNCppbxNEkPc=
+		mULMc1ukgwDnZ5qpNRb3jIb8Y3M=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -550,7 +550,7 @@
 		</data>
 		<key>HomeMenuVC.nib</key>
 		<data>
-		wxBc31ELF7K5P6c6QhKHJ3nuKLE=
+		cq3jwDqqlf2t433NyoCCEgQOlbY=
 		</data>
 		<key>HomePlayerVC.nib</key>
 		<data>
@@ -690,7 +690,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1J5h2M1HT+qLHE4cSR/+FEbcIcQ=
+		BaVUqL56mNVnsQeO7uLHXF1dss4=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -706,7 +706,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		t3I4oOqERxgK/kH1KDC0iRB/H2c=
+		VC+7X5uwLYGssUT55SOBXUeXUJk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1377,7 +1377,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8o/n/jQh9eseDmYVzDFxsqdZoJfn6HOzz2h7WVAjGM=
+			+OGg2lm6F18kDvvo5Hv1FddQEx7JXGPMC5FttdGkSc8=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2301,7 +2301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I51Z/4VV52Wdo5Sjez4FpXqD4H5rJFksyBmavWz0xQc=
+			MJB1pP8ZQNTomDcGnuid+jQy6Ycx//LLUorONugyNJA=
 			</data>
 		</dict>
 		<key>HomePlayerVC.nib</key>
@@ -2539,7 +2539,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5HYdgejKS46X8R/4sBWUnQhjA9b1EePOq9pvbbw2W3E=
+			jELQ++k8g2mIY97B85g2kt5V4hkrw8rCsVBUvau6ODE=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2567,7 +2567,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AGbHqrTl/Vo2viF7Gf6v1iJe3RQot+AXTKrHmrjnF+A=
+			/6CsR/jy6AG7zaLaRZfCyff1u9UB28N5HO+zBPiEPi8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

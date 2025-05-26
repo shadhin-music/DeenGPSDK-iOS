@@ -63438,7 +63438,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 8,
-      "value": "\"v1.2.3\""
+      "value": "\"v1.2.5\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/Kingfisher\/Image\/ImageDrawing.swift",
@@ -78451,7 +78451,7 @@
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 9137,
+      "offset": 9318,
       "length": 29,
       "value": "\"prayerTrackingStatusUpdated\""
     },
