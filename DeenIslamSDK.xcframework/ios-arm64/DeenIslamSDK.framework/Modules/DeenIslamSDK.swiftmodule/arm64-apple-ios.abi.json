@@ -29920,8 +29920,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "DeenIslamGPSDK",
-        "printedName": "DeenIslamGPSDK",
+        "name": "DeenIslamBLSDK",
+        "printedName": "DeenIslamBLSDK",
         "children": [
           {
             "kind": "Var",
@@ -29936,8 +29936,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamGPSDK(py)isInitialized",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC13isInitializedSbvp",
+            "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamBLSDK(py)isInitialized",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC13isInitializedSbvp",
             "moduleName": "DeenIslamSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -29962,8 +29962,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)isInitialized",
-                "mangledName": "$s12DeenIslamSDK0aB5GPSDKC13isInitializedSbvg",
+                "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)isInitialized",
+                "mangledName": "$s12DeenIslamSDK0aB5BLSDKC13isInitializedSbvg",
                 "moduleName": "DeenIslamSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -29981,14 +29981,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "DeenIslamGPSDK",
-                "printedName": "DeenIslamSDK.DeenIslamGPSDK",
-                "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamGPSDK"
+                "name": "DeenIslamBLSDK",
+                "printedName": "DeenIslamSDK.DeenIslamBLSDK",
+                "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamBLSDK"
               }
             ],
             "declKind": "Var",
-            "usr": "s:12DeenIslamSDK0aB5GPSDKC6sharedACvpZ",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC6sharedACvpZ",
+            "usr": "s:12DeenIslamSDK0aB5BLSDKC6sharedACvpZ",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC6sharedACvpZ",
             "moduleName": "DeenIslamSDK",
             "static": true,
             "declAttributes": [
@@ -30008,14 +30008,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "DeenIslamGPSDK",
-                    "printedName": "DeenIslamSDK.DeenIslamGPSDK",
-                    "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamGPSDK"
+                    "name": "DeenIslamBLSDK",
+                    "printedName": "DeenIslamSDK.DeenIslamBLSDK",
+                    "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamBLSDK"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:12DeenIslamSDK0aB5GPSDKC6sharedACvgZ",
-                "mangledName": "$s12DeenIslamSDK0aB5GPSDKC6sharedACvgZ",
+                "usr": "s:12DeenIslamSDK0aB5BLSDKC6sharedACvgZ",
+                "mangledName": "$s12DeenIslamSDK0aB5BLSDKC6sharedACvgZ",
                 "moduleName": "DeenIslamSDK",
                 "static": true,
                 "implicit": true,
@@ -30097,8 +30097,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)logInWith:isBL:complete:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC5logIn4with4isBL8completeySS_SbySSSg_AHtctF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)logInWith:isBL:complete:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC5logIn4with4isBL8completeySS_SbySSSg_AHtctF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "logInWith:isBL:complete:",
             "declAttributes": [
@@ -30160,8 +30160,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)initializeWith:nav:delegate:token:isBL:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC10initialize4with3nav8delegate5token4isBLySo18UITabBarControllerCSg_So012UINavigationN0CAA0aB11SDKNotifier_pSSSbtF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)initializeWith:nav:delegate:token:isBL:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC10initialize4with3nav8delegate5token4isBLySo18UITabBarControllerCSg_So012UINavigationN0CAA0aB11SDKNotifier_pSSSbtF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "initializeWith:nav:delegate:token:isBL:",
             "declAttributes": [
@@ -30205,8 +30205,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)gotoHomeWithTabBar:nav:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC8gotoHome6tabBar3navySo05UITabH10ControllerCSg_So012UINavigationK0CtF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)gotoHomeWithTabBar:nav:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC8gotoHome6tabBar3navySo05UITabH10ControllerCSg_So012UINavigationK0CtF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "gotoHomeWithTabBar:nav:",
             "declAttributes": [
@@ -30255,8 +30255,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)gotoWithFeature:tabBar:nav:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC4goto7feature6tabBar3navyAA10AppFeatureO_So05UITabH10ControllerCSgSo012UINavigationM0CtF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)gotoWithFeature:tabBar:nav:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC4goto7feature6tabBar3navyAA10AppFeatureO_So05UITabH10ControllerCSgSo012UINavigationM0CtF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "gotoWithFeature:tabBar:nav:",
             "declAttributes": [
@@ -30285,8 +30285,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)eventRegisterWith:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC13eventRegister4withySo7UIEventC_tF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)eventRegisterWith:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC13eventRegister4withySo7UIEventC_tF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "eventRegisterWith:",
             "declAttributes": [
@@ -30309,8 +30309,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)terminate",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC9terminateyyF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)terminate",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC9terminateyyF",
             "moduleName": "DeenIslamSDK",
             "declAttributes": [
               "Final",
@@ -30338,8 +30338,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)openFromRCWithCode:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC10openFromRC4codeySS_tF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)openFromRCWithCode:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC10openFromRC4codeySS_tF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "openFromRCWithCode:",
             "declAttributes": [
@@ -30363,8 +30363,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)isPrayerNotificationEnabled",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC27isPrayerNotificationEnabledSbyF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)isPrayerNotificationEnabled",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC27isPrayerNotificationEnabledSbyF",
             "moduleName": "DeenIslamSDK",
             "declAttributes": [
               "Final",
@@ -30386,8 +30386,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)clearAllPrayerNotification",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC26clearAllPrayerNotificationyyF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)clearAllPrayerNotification",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC26clearAllPrayerNotificationyyF",
             "moduleName": "DeenIslamSDK",
             "declAttributes": [
               "Final",
@@ -30415,8 +30415,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)prayerNotificationWithIsEnable:",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC18prayerNotification8isEnableySb_tF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)prayerNotificationWithIsEnable:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC18prayerNotification8isEnableySb_tF",
             "moduleName": "DeenIslamSDK",
             "objc_name": "prayerNotificationWithIsEnable:",
             "declAttributes": [
@@ -30439,8 +30439,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamGPSDK(im)logout",
-            "mangledName": "$s12DeenIslamSDK0aB5GPSDKC6logoutyyF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)logout",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC6logoutyyF",
             "moduleName": "DeenIslamSDK",
             "declAttributes": [
               "Final",
@@ -30452,8 +30452,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamGPSDK",
-        "mangledName": "$s12DeenIslamSDK0aB5GPSDKC",
+        "usr": "c:@M@DeenIslamSDK@objc(cs)DeenIslamBLSDK",
+        "mangledName": "$s12DeenIslamSDK0aB5BLSDKC",
         "moduleName": "DeenIslamSDK",
         "declAttributes": [
           "AccessControl",

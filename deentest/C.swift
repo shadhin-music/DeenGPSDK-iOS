@@ -38,7 +38,7 @@ class C: UIViewController {
         }
 
         @objc private func gotoDenAction() {
-            DeenIslamGPSDK.shared.gotoHome(tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.gotoHome(tabBar: self.tabBarController, nav: self.navigationController!)
         }
 
     

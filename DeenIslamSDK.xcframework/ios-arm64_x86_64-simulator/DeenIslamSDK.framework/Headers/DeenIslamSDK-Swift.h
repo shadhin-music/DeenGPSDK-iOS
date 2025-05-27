@@ -413,8 +413,8 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
-@interface DeenIslamGPSDK : NSObject
+SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamBLSDK")
+@interface DeenIslamBLSDK : NSObject
 @property (nonatomic, readonly) BOOL isInitialized;
 /// initilizer
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -427,7 +427,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
 @protocol DeenIslamSDKNotifier;
 @class UIEvent;
 
-@interface DeenIslamGPSDK (SWIFT_EXTENSION(DeenIslamSDK))
+@interface DeenIslamBLSDK (SWIFT_EXTENSION(DeenIslamSDK))
 /// \param msisdn user mobile number
 ///
 /// \param isBL number is BL or not
@@ -1202,8 +1202,8 @@ SWIFT_CLASS("_TtC12DeenIslamSDK8BaseView")
 
 
 
-SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
-@interface DeenIslamGPSDK : NSObject
+SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamBLSDK")
+@interface DeenIslamBLSDK : NSObject
 @property (nonatomic, readonly) BOOL isInitialized;
 /// initilizer
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -1216,7 +1216,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamGPSDK")
 @protocol DeenIslamSDKNotifier;
 @class UIEvent;
 
-@interface DeenIslamGPSDK (SWIFT_EXTENSION(DeenIslamSDK))
+@interface DeenIslamBLSDK (SWIFT_EXTENSION(DeenIslamSDK))
 /// \param msisdn user mobile number
 ///
 /// \param isBL number is BL or not

@@ -44,7 +44,7 @@ class ViewController: UIViewController, DeenIslamSDKNotifier {
 
     @IBAction func onLoginPressed(_ sender: Any) {
         
-        DeenIslamGPSDK.shared.logIn(with: textField.text ?? "" , isBL: true) { token, error in
+        DeenIslamBLSDK.shared.logIn(with: textField.text ?? "" , isBL: true) { token, error in
             if let token = token{
                 let tab = TabBarVC()
                 self.token = token

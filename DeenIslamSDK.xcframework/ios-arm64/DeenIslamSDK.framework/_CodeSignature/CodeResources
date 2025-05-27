@@ -462,7 +462,7 @@
 		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		S4Z5jLv3SJJ4RpdJmQikXOd+FO8=
+		EUI00YMui7ecxnkP75hmwg/anEc=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
@@ -690,23 +690,23 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		PZ5Gb9Sr9JQ1zXN5hy+oQWF2h8A=
+		/6sfwOfxbzGmVtfUtlKS0JwKD20=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		ymDpGDY7hm8daaeoFFHcLIWG7SM=
+		+YoxqgaF//avA8qcCuAj+mI0slY=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		s9MCdZTnsp3PuxMBtwJ0hHKcX3c=
+		IU3S3v7vrszYaCfyZ59OFBXch8c=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ymDpGDY7hm8daaeoFFHcLIWG7SM=
+		+YoxqgaF//avA8qcCuAj+mI0slY=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VVVM87AytY1oGasGp2E0fC6dlfc=
+		UB1xM1ShgjQwIugLoOhF8a4LZ78=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2147,7 +2147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6SqkT5Y6HeRwX47p8pdo4SUwmNi5/uwQLpizp1DSdk=
+			KjfNEZhsIy2JM0XLRQtS9Do7wQUpq8XjLhbixzaf8Bk=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
@@ -2539,35 +2539,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dYcP3ui2FEyK80fulZVSp7L3iqDskTQZ/UMICKzKbEI=
+			a6NLMUYKy6nF372qoJsyZBJIMPXvYE2Mr97LzpdOkvQ=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jhLUEjkkVTrqAX9TtqQSrgliXgqgOulNenhXgrAPbEM=
+			60C+T8im2TR0wHiEHfbO8y6vpyJv9WkvFjpCKCW/J68=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Te5nGIhISSQas1YtPU175Gg4TxzEYLdXd0QrDAmSpkg=
+			UJnkmiCNjX+CwzscD1wmUkelv3uoqqXw2GdhutNK7bw=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jhLUEjkkVTrqAX9TtqQSrgliXgqgOulNenhXgrAPbEM=
+			60C+T8im2TR0wHiEHfbO8y6vpyJv9WkvFjpCKCW/J68=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S3zyqjEVei/n3pUpy4fp2Yj78Q/PdQGunhj32ZRnx30=
+			5J8GOHueOfj+lSDR9AoDwWqPl7H2cWR1aaY4NsG4+rk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

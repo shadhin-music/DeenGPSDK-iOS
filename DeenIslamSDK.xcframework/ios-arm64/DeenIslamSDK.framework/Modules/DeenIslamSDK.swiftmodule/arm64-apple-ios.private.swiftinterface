@@ -1196,14 +1196,14 @@ public func videoIDFromYouTubeURL(_ videoURL: Foundation.URL) -> Swift.String?
   @_Concurrency.MainActor @preconcurrency @objc open func webView(_ webView: WebKit.WKWebView, decidePolicyFor navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)
   @objc deinit
 }
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class DeenIslamGPSDK : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class DeenIslamBLSDK : ObjectiveC.NSObject {
   @objc final public var isInitialized: Swift.Bool {
     get
   }
-  public static let shared: DeenIslamSDK.DeenIslamGPSDK
+  public static let shared: DeenIslamSDK.DeenIslamBLSDK
   @objc deinit
 }
-extension DeenIslamSDK.DeenIslamGPSDK {
+extension DeenIslamSDK.DeenIslamBLSDK {
   @objc final public func logIn(with msisdn: Swift.String, isBL: Swift.Bool, complete: @escaping (Swift.String?, Swift.String?) -> Swift.Void)
   @objc final public func initialize(with tabBar: UIKit.UITabBarController?, nav: UIKit.UINavigationController, delegate: any DeenIslamSDK.DeenIslamSDKNotifier, token: Swift.String, isBL: Swift.Bool)
   @objc final public func gotoHome(tabBar: UIKit.UITabBarController?, nav: UIKit.UINavigationController)
