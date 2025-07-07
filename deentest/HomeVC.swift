@@ -135,7 +135,7 @@ extension HomeVC : UITableViewDataSource,UITableViewDelegate{
         case 0:
             DeenIslamBLSDK.shared.gotoHome(tabBar: self.tabBarController, nav: self.navigationController!)
         case 1:
-            DeenIslamBLSDK.shared.goto(feature: .islamicName, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .islamic_name, tabBar: self.tabBarController, nav: self.navigationController!)
         case 2:
             DeenIslamBLSDK.shared.goto(feature: .tasbeeh, tabBar: self.tabBarController, nav: self.navigationController!)
         case 3:
@@ -143,42 +143,44 @@ extension HomeVC : UITableViewDataSource,UITableViewDelegate{
         case 4:
             DeenIslamBLSDK.shared.goto(feature: .hadith, tabBar: self.tabBarController, nav: self.navigationController!)
         case 5:
-            DeenIslamBLSDK.shared.goto(feature: .prayerTime, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .prayer_time, tabBar: self.tabBarController, nav: self.navigationController!)
         case 6:
-            DeenIslamBLSDK.shared.goto(feature: .qibla, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .compass, tabBar: self.tabBarController, nav: self.navigationController!)
         case 7:
             DeenIslamBLSDK.shared.goto(feature: .zakat, tabBar: self.tabBarController, nav: self.navigationController!)
         case 8:
-            DeenIslamBLSDK.shared.goto(feature: .alQuaran, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .quran, tabBar: self.tabBarController, nav: self.navigationController!)
         case 9: break
             //DeenIslamGPSDK.shared.goto(feature: .ramadan )
         case 10:
-            DeenIslamBLSDK.shared.goto(feature: .islamicEvent , tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .islamic_event , tabBar: self.tabBarController, nav: self.navigationController!)
         case 11:
-            DeenIslamBLSDK.shared.goto(feature: .nearestMosque, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .nearest_mosque, tabBar: self.tabBarController, nav: self.navigationController!)
         case 12:
             DeenIslamBLSDK.shared.goto(feature: .eidJamatPlace, tabBar: self.tabBarController, nav: self.navigationController!)
         case 13:
-            DeenIslamBLSDK.shared.goto(feature: .namazLearning, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .prayer_learning, tabBar: self.tabBarController, nav: self.navigationController!)
         case 14:
-            DeenIslamBLSDK.shared.goto(feature: .moccaModinaLive, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .live_makkah_madina, tabBar: self.tabBarController, nav: self.navigationController!)
         case 15:
             DeenIslamBLSDK.shared.goto(feature: .duaAndAmol, tabBar: self.tabBarController, nav: self.navigationController!)
         case 16:
-            DeenIslamBLSDK.shared.goto(feature: .islamicLearningStory, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .islamic_golpo, tabBar: self.tabBarController, nav: self.navigationController!)
         case 17:
-            DeenIslamBLSDK.shared.goto(feature: .rramadan, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .ramadan, tabBar: self.tabBarController, nav: self.navigationController!)
         case 18:
-            DeenIslamBLSDK.shared.goto(feature: .KhotomQuran, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .khatam_e_quran, tabBar: self.tabBarController, nav: self.navigationController!)
         case 19:
-            DeenIslamBLSDK.shared.goto(feature: .HajjAndUmrah, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .hajjandumrah, tabBar: self.tabBarController, nav: self.navigationController!)
         case 20:
-            DeenIslamBLSDK.shared.goto(feature: .AllahNames, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .asmaul_husna, tabBar: self.tabBarController, nav: self.navigationController!)
             
         case 21:
-            DeenIslamBLSDK.shared.goto(feature: .IslamicCalender, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .islamic_calendar, tabBar: self.tabBarController, nav: self.navigationController!)
         case 22:
-            DeenIslamBLSDK.shared.goto(feature: .IslamicBoyan, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .islamic_boyan, tabBar: self.tabBarController, nav: self.navigationController!)
+        case 23:
+            DeenIslamBLSDK.shared.goto(feature: .ramadan_regular, tabBar: self.tabBarController, nav: self.navigationController!)
             
         default:
             DeenIslamBLSDK.shared.goto(feature: .home, tabBar: self.tabBarController, nav: self.navigationController!)
