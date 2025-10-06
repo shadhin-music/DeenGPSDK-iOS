@@ -702,7 +702,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		PUHReaMyWHrV8M3tWtsz5AA+ZDQ=
+		19wt8B7YKL9ZQ6AzpKCpJzXdmz0=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -718,11 +718,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ro1ZyvwqxS4ldAfVu9UIdegMgj8=
+		g2qX4sEdFvHf2ymTvy1Bxiw99Q8=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		PUHReaMyWHrV8M3tWtsz5AA+ZDQ=
+		19wt8B7YKL9ZQ6AzpKCpJzXdmz0=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -738,7 +738,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		c+UIP0We+Ez4b5hwgQNsFnSgnEU=
+		Nwuw50QL/LRhdB2v4EyET2bhmgc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1126,7 +1126,7 @@
 		</data>
 		<key>SingleImageCell.nib</key>
 		<data>
-		kynHPX55rIKjqX0KNa1/ScqUsDI=
+		EDwUaD4NzW+/YHt5QZkfcH49OvU=
 		</data>
 		<key>SinglePopUP.nib</key>
 		<data>
@@ -2600,7 +2600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nAWA8TJ1IMs21+Kr76MUZEES/UY2YVwjFphZeEH0YKw=
+			POn7nf9jQtgcIReWSSYmwHu6g069Twkl31B/BIjibnQ=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -2628,14 +2628,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+S5bAvlcsmgPupW4mHeK0g1b0g8KG6zwH8awasNF2h0=
+			vST9p2ZVhg97m1l5OPb6/ybWs/V6AhykkpkyaOkf3ss=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nAWA8TJ1IMs21+Kr76MUZEES/UY2YVwjFphZeEH0YKw=
+			POn7nf9jQtgcIReWSSYmwHu6g069Twkl31B/BIjibnQ=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -2663,7 +2663,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YLTEOXxD/isxodaB9lkbNbzi1YCsKjreggSDMgkSUxE=
+			ZyktJonZ8m/sWLMg7ZBBy4FXnje/EyyoLpN9zPbIsc0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3342,7 +3342,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tfo668mqbzzzQzRSn4CjX/JUZ3btsE3v5rkiqLjKGfU=
+			Rghzj/fzgEBudp6CpW3wsadbs8G9t3Wn2BMCJTuoj+I=
 			</data>
 		</dict>
 		<key>SinglePopUP.nib</key>
