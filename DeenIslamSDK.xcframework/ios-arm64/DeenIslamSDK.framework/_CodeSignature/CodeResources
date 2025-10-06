@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		vU2LuNq0jf4g7TQHzYu8dRGbjC8=
+		UxlJwWpnAgnrYK9KYwkdA1IeFpY=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>HomeBillBoardCentreCell.nib</key>
 		<data>
-		pboV4FoIDuvHebEgT+Ej31GNJzc=
+		v4gdX1BxUtm+HXWlFTOGY4qswy0=
 		</data>
 		<key>HomeBillboardCell.nib</key>
 		<data>
@@ -702,7 +702,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9l+wfv9P7Gsd5uf8FoOJTGjv6ik=
+		lWJWAXVX3GuvJ6Ch+Ml42qpmxW0=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -718,7 +718,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		GcM6WbGc483Y4uqhYwPUeuXlfSM=
+		VhAtSHWf5qrwkgNMb2QYO8OXcYU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1397,7 +1397,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FW1+ULrsP8ANWnvZ8qMvRwjQAkjZ0dtEOC1FhKvg+Qs=
+			sejY8hzdJ1Z3I12ZU4ZWDh4vvAvNfqv0rGfYvFCgYpU=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2272,7 +2272,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GjEjkPDiK6M9wFYgQZx66F9/XfO1ZDeeU8H03JgLF/E=
+			QXAst1zwIPu4GqB6z29GoQUPqe0HSOgFva9f+WCXfhg=
 			</data>
 		</dict>
 		<key>HomeBillboardCell.nib</key>
@@ -2580,7 +2580,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T3Mf4osGeBQhhIDH7J3V0Xrcg7aUwRGyXQWeM2pmkw0=
+			7ZIdVqKSBRpiRaoRbwxZCh04IpVfo6dhqLChuNbR3gc=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2608,7 +2608,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kdU6DbLUNCLJthD+t630M71Jayntl5xn+rCal2AU9tA=
+			nKDQt4YMU4X6GxahJ3571ASnfDUKlGGJvTCtNrSGtvA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

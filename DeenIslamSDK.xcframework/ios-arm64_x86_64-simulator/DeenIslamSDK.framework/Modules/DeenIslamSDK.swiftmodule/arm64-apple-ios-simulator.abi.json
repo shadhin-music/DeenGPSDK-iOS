@@ -63650,7 +63650,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 9,
-      "value": "\"v1.2.11\""
+      "value": "\"v1.2.12\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/Kingfisher\/Image\/ImageDrawing.swift",
@@ -79188,56 +79188,70 @@
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 1219,
+      "offset": 1231,
+      "length": 60,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
+      "kind": "StringLiteral",
+      "offset": 1251,
+      "length": 1,
+      "value": "\"\/PrayerTime\/PrayerTimeDateWiseDashboard\""
+    },
+    {
+      "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
+      "kind": "StringLiteral",
+      "offset": 1330,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 1239,
+      "offset": 1350,
       "length": 1,
       "value": "\"\/PrayerTracker\/AddTrackingInfo\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 1307,
+      "offset": 1418,
       "length": 52,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 1327,
+      "offset": 1438,
       "length": 1,
       "value": "\"\/PrayerTime\/PrayerTimeDateRange\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 1413,
+      "offset": 1524,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 1433,
+      "offset": 1544,
       "length": 1,
       "value": "\"\/PrayerTracker\/AddTrackingInfoDateWise\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "IntegerLiteral",
-      "offset": 1506,
+      "offset": 1617,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/PrayerTimeService.swift",
       "kind": "StringLiteral",
-      "offset": 9318,
+      "offset": 10468,
       "length": 29,
       "value": "\"prayerTrackingStatusUpdated\""
     },
