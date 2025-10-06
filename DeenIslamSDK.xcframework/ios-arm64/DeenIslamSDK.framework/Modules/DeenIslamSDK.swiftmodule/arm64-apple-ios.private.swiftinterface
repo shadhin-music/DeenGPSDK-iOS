@@ -1965,6 +1965,8 @@ public enum DeenError : Swift.Error {
   case islamic_calendar
   case podcast
   case asmaul_husna
+  case islamic_qa
+  case islamic_qa_ask
   public init?(rawValue: Swift.Int)
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
