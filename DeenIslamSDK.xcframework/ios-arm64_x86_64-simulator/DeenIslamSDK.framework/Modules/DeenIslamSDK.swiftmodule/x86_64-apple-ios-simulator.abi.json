@@ -51094,6 +51094,47 @@
             "fixedbinaryorder": 26
           },
           {
+            "kind": "Var",
+            "name": "video_quiz",
+            "printedName": "video_quiz",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeenIslamSDK.AppFeature.Type) -> DeenIslamSDK.AppFeature",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AppFeature",
+                    "printedName": "DeenIslamSDK.AppFeature",
+                    "usr": "c:@M@DeenIslamSDK@E@AppFeature"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeenIslamSDK.AppFeature.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AppFeature",
+                        "printedName": "DeenIslamSDK.AppFeature",
+                        "usr": "c:@M@DeenIslamSDK@E@AppFeature"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@DeenIslamSDK@E@AppFeature@AppFeatureVideo_quiz",
+            "mangledName": "$s12DeenIslamSDK10AppFeatureO10video_quizyA2CmF",
+            "moduleName": "DeenIslamSDK",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 27
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -63687,7 +63728,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 9,
-      "value": "\"v1.2.14\""
+      "value": "\"v1.2.15\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/Kingfisher\/Image\/ImageDrawing.swift",
@@ -65946,63 +65987,63 @@
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 33477,
+      "offset": 33486,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 33514,
+      "offset": 33523,
       "length": 9,
       "value": "\"Message\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 33548,
+      "offset": 33557,
       "length": 6,
       "value": "\"Data\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 34007,
+      "offset": 34016,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 34044,
+      "offset": 34053,
       "length": 9,
       "value": "\"Message\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 34078,
+      "offset": 34087,
       "length": 6,
       "value": "\"Data\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 34315,
+      "offset": 34324,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 34352,
+      "offset": 34361,
       "length": 9,
       "value": "\"Message\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Subscription\/SubscriptionVC.swift",
       "kind": "StringLiteral",
-      "offset": 34386,
+      "offset": 34395,
       "length": 6,
       "value": "\"Data\""
     },
@@ -70119,13 +70160,13 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/YouTubePlayer\/YouTubePlayer.swift",
       "kind": "StringLiteral",
       "offset": 2722,
-      "length": 13,
-      "value": "\"about:blank\""
+      "length": 25,
+      "value": "\"https:\/\/deenislamic.com\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/YouTubePlayer\/YouTubePlayer.swift",
       "kind": "BooleanLiteral",
-      "offset": 2855,
+      "offset": 2867,
       "length": 5,
       "value": "false"
     },
@@ -74683,7 +74724,7 @@
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiService\/LeaderBoardService.swift",
       "kind": "StringLiteral",
       "offset": 352,
-      "length": 65,
+      "length": 69,
       "value": "\"\""
     },
     {
@@ -74691,7 +74732,7 @@
       "kind": "StringLiteral",
       "offset": 387,
       "length": 1,
-      "value": "\"\/Quiz\/GetVideoQuizLeaderboard\""
+      "value": "\"\/DeenQuiz\/GetQuizPatchLeaderboard\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Utils\/AppImage.swift",
@@ -86217,64 +86258,71 @@
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
+      "kind": "IntegerLiteral",
+      "offset": 694,
+      "length": 10,
+      "value": "27"
+    },
+    {
+      "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 728,
+      "offset": 748,
       "length": 6,
       "value": "\"home\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 750,
+      "offset": 770,
       "length": 5,
       "value": "\"dua\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 774,
+      "offset": 794,
       "length": 8,
       "value": "\"hadith\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 802,
+      "offset": 822,
       "length": 9,
       "value": "\"tasbeeh\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 832,
+      "offset": 852,
       "length": 7,
       "value": "\"quran\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 863,
+      "offset": 883,
       "length": 14,
       "value": "\"islamic_name\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 900,
+      "offset": 920,
       "length": 13,
       "value": "\"prayer_time\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 933,
+      "offset": 953,
       "length": 9,
       "value": "\"compass\""
     },
     {
       "filePath": "\/Users\/talutmahamud\/ios_projects\/SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Core\/AppFeature .swift",
       "kind": "StringLiteral",
-      "offset": 960,
+      "offset": 980,
       "length": 7,
       "value": "\"zakat\""
     },
