@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		UloZBtQry+o1TyPnECz3N88EYBM=
+		F6+dR+HKgLlAKa7aLJ9UPYW0ODo=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -79,6 +79,10 @@
 		<key>CategoryDetailsYT.nib</key>
 		<data>
 		h+EntxRpbeIl9w6W+tb8DMqEY8g=
+		</data>
+		<key>CertificateCell.nib</key>
+		<data>
+		6PjsfxtWRpSxTacz/+9wPWBNcKQ=
 		</data>
 		<key>CollectionReusableHeaderViewForRecent.nib</key>
 		<data>
@@ -238,7 +242,7 @@
 		</data>
 		<key>FaqCell.nib</key>
 		<data>
-		DfPjKJXnBTXDVRmd5sVRDPgILok=
+		hySg6glXd1Z/OVKmRjxYihc50bY=
 		</data>
 		<key>FavCell.nib</key>
 		<data>
@@ -466,7 +470,7 @@
 		</data>
 		<key>Headers/DeenIslamSDK-Swift.h</key>
 		<data>
-		/zQZIlNagHpvij8/ek/KkJuzhDM=
+		rlo7UYEoPwhDSiYzyIPMNwnml2E=
 		</data>
 		<key>Headers/DeenIslamSDK.h</key>
 		<data>
@@ -702,11 +706,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		oLkmY+VZ1exEn3X49kCWCo+m7HM=
+		y989kt6JQWqbrHtURThdagxWZn8=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Lx9H+n31QP786QqdLS9ZP4uqskM=
+		RegppJ2ulF0AYSoDHaTu0aiXT0g=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -714,11 +718,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Lx9H+n31QP786QqdLS9ZP4uqskM=
+		RegppJ2ulF0AYSoDHaTu0aiXT0g=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZYPzrgmpxbUZErAQXd55zqHGnI4=
+		KujK6ItS0gQYj3o5f7px1X461G4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -968,6 +972,22 @@
 		<data>
 		tfNXhIiS9UIAwaeEiNPi9F3rBW4=
 		</data>
+		<key>QuizBillboard.nib</key>
+		<data>
+		rVNrIUydG1O6cb7yrBdMOmXPITA=
+		</data>
+		<key>QuizCampDayCell.nib</key>
+		<data>
+		Mv5G3quXMNqmmwRdpEErhqGa1qU=
+		</data>
+		<key>QuizCampDayCellDetails.nib</key>
+		<data>
+		oFeMnh5CSuCBBUcmqyQMPLr704M=
+		</data>
+		<key>QuizCampVC.nib</key>
+		<data>
+		jrNz5k21eWU4w4cy2lecWZoNtpQ=
+		</data>
 		<key>QuizDayCell.nib</key>
 		<data>
 		WmPuiVeVDxAiMUhmS5pId4tq4rI=
@@ -982,7 +1002,7 @@
 		</data>
 		<key>QuizQuestionVC.nib</key>
 		<data>
-		Mb5FBvXxTOmi1sEi0+b4toAcaT8=
+		gKQZvTdnkIqPgzSjTCY+tDM7eUE=
 		</data>
 		<key>QuizTopicCell.nib</key>
 		<data>
@@ -1102,7 +1122,7 @@
 		</data>
 		<key>ScoreListVC.nib</key>
 		<data>
-		yntgoh4fgjaI7xKiOZUh3Dx+KgU=
+		SiBuXbY3UIWo5JxT2FSiF012gto=
 		</data>
 		<key>SettingVC.nib</key>
 		<data>
@@ -1358,21 +1378,29 @@
 		<data>
 		wVsf2l1Iu25vPMruuKdbx3OtByI=
 		</data>
+		<key>leaderBoardCell.nib</key>
+		<data>
+		J4Ks46IOHDWV05ILusp4/KGzzkU=
+		</data>
 		<key>listDetailsCell.nib</key>
 		<data>
-		6tiNK8L2W9QsAMcwlhlhK8IHuAw=
+		r+0rd82UV80djN5QaVP9OOhk/Vw=
 		</data>
 		<key>placeCell.nib</key>
 		<data>
-		oYG/Y+/yY9J2nK78qv3DjeoEEqo=
+		1aaqi0ivYOs02kL3E8hDB/WUj5Q=
 		</data>
 		<key>placeListCell.nib</key>
 		<data>
-		eDN9Mc6zKU2k5NQQE4dnRQILVgA=
+		8ftSwnJdZOJ/X80G+62z1s5myFc=
 		</data>
 		<key>poshurHut.nib</key>
 		<data>
 		cqXD9d8AUbWi/MMWxGD5+URr5UE=
+		</data>
+		<key>weeklyLeaderBoardCell.nib</key>
+		<data>
+		OChAt9X4eJnC49W33a8vw/B0ewE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1409,7 +1437,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B213QBut0BMZJbzxwIJiJSmgJkAoMYcKNxCeSkftkCw=
+			lLGg/b5/HaSsbAiznlkXNhMJa5NZ5rlsUUQDuKe+P8w=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1508,6 +1536,13 @@
 			<key>hash2</key>
 			<data>
 			DZ1v9rIw2yeKFgf/zvnZmLVmGafPFenjGzm6BmZoAyw=
+			</data>
+		</dict>
+		<key>CertificateCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uEui+KJSd9A5tltUbSYofi3jJcFcHU7IQea6xf10yow=
 			</data>
 		</dict>
 		<key>CollectionReusableHeaderViewForRecent.nib</key>
@@ -1787,7 +1822,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6S0rdutmINdu3quCJ9wqkiyBM9ZT3f8isgSq/Zd4J/E=
+			eFhii9rw9wOAVKzqI7QlteGs92wsBfMRvLtO4PtDA7k=
 			</data>
 		</dict>
 		<key>FavCell.nib</key>
@@ -2186,7 +2221,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgmJm/RjMGSaJy0YjWljSjIo6C3zX5Wumg1zIWUgZ+k=
+			oMT0+AWJWJb1CYcyK99hx+oBVdxBpM2G/Kl2NnnPmGE=
 			</data>
 		</dict>
 		<key>Headers/DeenIslamSDK.h</key>
@@ -2592,14 +2627,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o39hwYcXq53P67N+TpPW1itBae/K4rXLieVvDg+0JQA=
+			m77jM6nQGSJbiS6j64X6hn/o0phvRnVP5h3fDLboK04=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7fzyo0CLbaBGPC7OK3g/haokKx9MVqYpj8BzHOFN0nI=
+			q8X0S3sdswOf7dwqgevSarRKc22io4XV6jWJINufTQo=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -2613,14 +2648,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7fzyo0CLbaBGPC7OK3g/haokKx9MVqYpj8BzHOFN0nI=
+			q8X0S3sdswOf7dwqgevSarRKc22io4XV6jWJINufTQo=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X5a7cGqBkC1OiYmC6d+xxQek49NMVdddEfIesghKHpU=
+			pGbUyIc2kE/k5fEK4fcHYLbaDShu/lz6bCGaHskOVPc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3057,6 +3092,34 @@
 			sl3zVx+U8tEu2cKXItDjuN/BoqM9eIcVWwrTBZcfKcw=
 			</data>
 		</dict>
+		<key>QuizBillboard.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+vTGWKdBNN+vpYWwkyJs1i1HJdVG7I+OE9yhmjnGz84=
+			</data>
+		</dict>
+		<key>QuizCampDayCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m/04YPL7Ip9ns+HIfOSwqYCuFq5GtmT5Cqu80eOYGOM=
+			</data>
+		</dict>
+		<key>QuizCampDayCellDetails.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QqibEnOX1dg9p/C0xXm8av4J/rZjr2BHbeAO+x3ygxM=
+			</data>
+		</dict>
+		<key>QuizCampVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OgL7BqJyriPkBxhvIBMmHH6KAqTVbUE+YlduBvNJ7hw=
+			</data>
+		</dict>
 		<key>QuizDayCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3082,7 +3145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tuLjZI2gK/3G/fuqCK6BpB8Nq1pwCt7cJMe4zGM4tPI=
+			je0PIC05eAVjTa5gNcW8cRlaySmraj6Al/ve3aCvPP4=
 			</data>
 		</dict>
 		<key>QuizTopicCell.nib</key>
@@ -3292,7 +3355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dKME0sDxHKj1oxWvPPv9dyCfGAumIIZWHAR5n7Gi97Q=
+			95Ylg1/L6ANWAPJoVto3/9tIfzrtL6nXhdxC+cWiI98=
 			</data>
 		</dict>
 		<key>SettingVC.nib</key>
@@ -3726,25 +3789,32 @@
 			TI8ALnU472NRrGdusPLBcI7NF/b4pfxKGdvI6vTd3/U=
 			</data>
 		</dict>
+		<key>leaderBoardCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yPgL1zdcr+dx3iET1zAISTjYnlt9IYMYGTKlyQ2o+lc=
+			</data>
+		</dict>
 		<key>listDetailsCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ayPD29hNhp0eY9OhLMAJ8Z7sssn27ahgPp16r0GLt5w=
+			jLTYgTzkiDupRNXWoVeiUEYLC/DVsakG8TXUS1yJ5S4=
 			</data>
 		</dict>
 		<key>placeCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o57OYYqzBm0IJr57axJhrmdpeceBzO/1TNZ4eIG8C8k=
+			nsrZkSmb6Qbj5sHiq834rR5LQi9O4ixhtiNpo0pB4r8=
 			</data>
 		</dict>
 		<key>placeListCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jMHjBNVB7pwtI1/xFFDhOYWFCXDei3yfEDwznbgG+Lw=
+			wxETG3UFVO8c1VQeYktdfIDf9rSiLJT2bFa2MLY+UmQ=
 			</data>
 		</dict>
 		<key>poshurHut.nib</key>
@@ -3752,6 +3822,13 @@
 			<key>hash2</key>
 			<data>
 			2duCyuCJfPxuWrQGFtVUqyGZJKMyJ6Sq3kJpUyo5Lbc=
+			</data>
+		</dict>
+		<key>weeklyLeaderBoardCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FTJ+ohIRTZNQSaI50lLaXUWUZ2wK/Gc8HHeudQOTABY=
 			</data>
 		</dict>
 	</dict>

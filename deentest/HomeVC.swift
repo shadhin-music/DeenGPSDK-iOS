@@ -28,7 +28,7 @@ class HomeVC: UIViewController {
     
     @IBOutlet weak var sessionTimeTV: UITextField!
     
-    private var dataSource : [String] = ["Home","Islamic Name","Tasbeeh","Daily Dua","Hadith","PrayerTime","Qibla", "Zakat","Al Quran","", "IslamicEvent", "NearestMosque", "EidJamatPlace", "NamazLearning", "MoccaModinaLive", "DuaAndAmol", "IslamicLearningStory", "Ramadan", "khotom Quran", "Hajj and Umrah", "Allah All Names", "Islamic Calender"]
+    private var dataSource : [String] = ["Home","Islamic Name","Tasbeeh","Daily Dua","Hadith","PrayerTime","Qibla", "Zakat","Al Quran","", "IslamicEvent", "NearestMosque", "EidJamatPlace", "NamazLearning", "MoccaModinaLive", "DuaAndAmol", "IslamicLearningStory", "Ramadan", "khotom Quran", "Hajj and Umrah", "Allah All Names", "Islamic Calender","RamadanRR" ,"Quiz"]
     var token : String?
     
     override func viewDidLoad() {
@@ -180,7 +180,7 @@ extension HomeVC : UITableViewDataSource,UITableViewDelegate{
         case 22:
             DeenIslamBLSDK.shared.goto(feature: .islamic_boyan, tabBar: self.tabBarController, nav: self.navigationController!)
         case 23:
-            DeenIslamBLSDK.shared.goto(feature: .ramadan_regular, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .quiz, tabBar: self.tabBarController, nav: self.navigationController!)
             
         default:
             DeenIslamBLSDK.shared.goto(feature: .home, tabBar: self.tabBarController, nav: self.navigationController!)
