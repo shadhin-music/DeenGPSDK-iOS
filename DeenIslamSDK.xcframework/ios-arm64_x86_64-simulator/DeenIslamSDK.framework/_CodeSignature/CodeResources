@@ -306,7 +306,7 @@
 		</data>
 		<key>HadithBookCell.nib</key>
 		<data>
-		+ApwlkCqNtRRkb+N8++3KKG+344=
+		TGUA/keYPMuXovzGEgt5sz1YBTc=
 		</data>
 		<key>HadithBookChapterCell.nib</key>
 		<data>
@@ -706,7 +706,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		yoptOKjAUanN3eYlsp/oZnpY/p0=
+		yPopRAv+8EOWdlS9fGc3w1IIq18=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -722,11 +722,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QOAwZ53T9TbadGceSSeyDCSt3l0=
+		UYEbKRfxpz70jEjNZUKqkVR72FA=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		yoptOKjAUanN3eYlsp/oZnpY/p0=
+		yPopRAv+8EOWdlS9fGc3w1IIq18=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -742,7 +742,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GCTNxqCyZVZpGPaTTM+xHbucumQ=
+		Wv3aVHNr/RNWjoBnvWPcovAIdjA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -874,7 +874,7 @@
 		</data>
 		<key>PlayerLearningDetailsVC.nib</key>
 		<data>
-		WkAYqOM3npPjQvdYYWzR7jLbIok=
+		XhwlifFvPF2Wmo8NnGXWxOCJse8=
 		</data>
 		<key>PlayerViewCollectionCell.nib</key>
 		<data>
@@ -1242,7 +1242,7 @@
 		</data>
 		<key>TimeDetails.nib</key>
 		<data>
-		R8rUC/aBroB5gpX1FEP2/C2h91s=
+		Rz7rO3uxYJ0q7qGShLSykMXoE5s=
 		</data>
 		<key>TodaysDuaCell.nib</key>
 		<data>
@@ -1954,7 +1954,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m9IunORBgv2MMYVpuBgPcho3EvjeN3rusvv72qqZ6hY=
+			YGmtiwFpVM2GRlgdPZgn2dL0VZRABgcrnlU1HXUBths=
 			</data>
 		</dict>
 		<key>HadithBookChapterCell.nib</key>
@@ -2647,7 +2647,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/TIQs8TrU0ybP5gQ7KLkhxg0Ypo4GiJljHs+40zHKEk=
+			z+JK4RmkJ0y5pAEp6il1UKRyJZBOhDQVoB0NwImYi+w=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -2675,14 +2675,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtiHkIyye4szI2T+syOCVRtonLqAg77qsAWzIOcKcKU=
+			2oGMIpUF1e5MFzX3fRGWowSua0ajcZvESeCo5pyWmyM=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/TIQs8TrU0ybP5gQ7KLkhxg0Ypo4GiJljHs+40zHKEk=
+			z+JK4RmkJ0y5pAEp6il1UKRyJZBOhDQVoB0NwImYi+w=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -2710,7 +2710,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BDjgdPFJEpNUUxfuLR00+4iph9SzWh71IrFXZBWBJ/g=
+			RbQCNk84fFXUDy5WD5TrNHJ5sotixFSUWfRPa53OU2A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2941,7 +2941,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0fLi4e4azMf1X6c+BMhS5/Eeuxa5VmpUM+w4BiD114c=
+			q3ofRk7NkQtWsHJq3dgNVEFxCTdICM8DqJxhuXCFtTo=
 			</data>
 		</dict>
 		<key>PlayerViewCollectionCell.nib</key>
@@ -3585,7 +3585,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/kzZ9pTNXtFvKDJV4qZDFiroOFF0T/MskU22/YJlfY=
+			N0doquSRWcx0fA5WI8WMVtV611i1mDsPhmvvSGH1o0o=
 			</data>
 		</dict>
 		<key>TodaysDuaCell.nib</key>
