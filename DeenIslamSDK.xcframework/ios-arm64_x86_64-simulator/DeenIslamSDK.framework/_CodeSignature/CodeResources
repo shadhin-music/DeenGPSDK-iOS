@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		84dJRRWSLGqmJ8bSGZyDFP9wAuU=
+		xAbW5gD8JK14QVHrAayfLocBCBI=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>DuaAmolPlayer.nib</key>
 		<data>
-		lZoMHjazCpUEJoEuey6ypfarI5s=
+		dJHVDGnHXfuZXMbOBwwzUROn7so=
 		</data>
 		<key>DuaAndAmolVC.nib</key>
 		<data>
@@ -262,7 +262,7 @@
 		</data>
 		<key>FilterCell.nib</key>
 		<data>
-		3brmVF/WvOrIsUpUcCB2BgQOC0I=
+		5ALm+hcyaa83QMd7Is9/a84HJYc=
 		</data>
 		<key>FirstCell.nib</key>
 		<data>
@@ -562,7 +562,7 @@
 		</data>
 		<key>HomePlayerVC.nib</key>
 		<data>
-		ZC6df3rrSfi8J2k4G3jttBUynOc=
+		a7mv5snpjAX/vEbSgQIgzbRZ6H0=
 		</data>
 		<key>HomeQibla.nib</key>
 		<data>
@@ -706,7 +706,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		yPopRAv+8EOWdlS9fGc3w1IIq18=
+		5BjqnqE8FwsTLuOy9CBaBIG+0uE=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -722,11 +722,11 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UYEbKRfxpz70jEjNZUKqkVR72FA=
+		rmOoiVHxffvOlw8huD/UcfrwIJI=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		yPopRAv+8EOWdlS9fGc3w1IIq18=
+		5BjqnqE8FwsTLuOy9CBaBIG+0uE=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -742,7 +742,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Wv3aVHNr/RNWjoBnvWPcovAIdjA=
+		LzQYLuaq3AdFOAdBpLoVjM3FHj8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -882,7 +882,7 @@
 		</data>
 		<key>PlayerViewController.nib</key>
 		<data>
-		qyxqyMZST/4cCFg85Ic90Dlnov4=
+		hFVSw7cXIfHZ7020JLtnq2qsq6c=
 		</data>
 		<key>PodcastLiveVC.nib</key>
 		<data>
@@ -890,11 +890,11 @@
 		</data>
 		<key>PodcastPlayerView.nib</key>
 		<data>
-		dwiDzpjCyQ5AX4oXEPqe3b8MYu0=
+		tQpmEpXFZJ/xPwtvcolEf8obtRc=
 		</data>
 		<key>PodcastUrlPlayer.nib</key>
 		<data>
-		zA6QIWQqj87kSYsyf5bxoPDOGcE=
+		+5wtGRhwD4EWDhDlXqjl3BI1QTI=
 		</data>
 		<key>PodcastVC.nib</key>
 		<data>
@@ -1034,7 +1034,7 @@
 		</data>
 		<key>QurabaniPlayerView.nib</key>
 		<data>
-		67OqKSIlg5MSk7+/NZYqHaloxIs=
+		FfyoytC1u0lvqrFQHriRHU8Uupg=
 		</data>
 		<key>QurabaniTathporjo.nib</key>
 		<data>
@@ -1074,7 +1074,7 @@
 		</data>
 		<key>QurbanPlayer.nib</key>
 		<data>
-		s8sfq+UQCnP4N6ZzWBAleWbDu24=
+		BAT15vCLWsCWGKM9Hm3e1xHLRBI=
 		</data>
 		<key>QurbaniBookCell.nib</key>
 		<data>
@@ -1158,7 +1158,7 @@
 		</data>
 		<key>SubscribeFilterCell.nib</key>
 		<data>
-		o6nrBIoOfriouSS2RKNour8T/v4=
+		VfJsPTMI5ebORiCKnyKRORWsSl4=
 		</data>
 		<key>SubscriptionHeader.nib</key>
 		<data>
@@ -1457,7 +1457,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ex2lTFF/tTFXtn4vD09af8n89zskoYNvsd1ZqBN13M=
+			1J/ZkNqSsvEtthZKNDFT62uZ63y1paIS6LjhzDF3P6I=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1702,7 +1702,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/LrPvn4LP2oZpSPqDfBf9XhC4OYcaY3peewsgkG3p4o=
+			bQPtmK8qGC7WMr4TddgAMu2g+Pg3VZ0IEVib7hdgTIc=
 			</data>
 		</dict>
 		<key>DuaAndAmolVC.nib</key>
@@ -1877,7 +1877,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SI6go1DYyAVwx6tG7Geg8wrgUhEl+i37PTvNBE/Q4jc=
+			luKk3BcPyLJRYZrSkrNDzgvwInXN4PGG9XEBLvUN+gk=
 			</data>
 		</dict>
 		<key>FirstCell.nib</key>
@@ -2402,7 +2402,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hX8pNhRLEGVT3DxD5k0rqzuJRH3D7Fs3DGwI5k27eyw=
+			DxjiaA7jJUxl5KQ7qcW8VPNcAoCq4vS5bZJwJ0r1DmY=
 			</data>
 		</dict>
 		<key>HomeQibla.nib</key>
@@ -2647,7 +2647,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+JK4RmkJ0y5pAEp6il1UKRyJZBOhDQVoB0NwImYi+w=
+			QWa38GZxOEHnD/N9W0XnMo119X3a8xsX1AN9s+5p8K4=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -2675,14 +2675,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2oGMIpUF1e5MFzX3fRGWowSua0ajcZvESeCo5pyWmyM=
+			jVr1vscBEZn/CCq64wSF40Pg1lTvZGfQwskqggzzN5Y=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z+JK4RmkJ0y5pAEp6il1UKRyJZBOhDQVoB0NwImYi+w=
+			QWa38GZxOEHnD/N9W0XnMo119X3a8xsX1AN9s+5p8K4=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -2710,7 +2710,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RbQCNk84fFXUDy5WD5TrNHJ5sotixFSUWfRPa53OU2A=
+			6kXuceYH/QvQOZPXyaSL8WHmarCoV1aE+UoXiZnceQU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2955,7 +2955,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kr2rmfOfzOK+PZk4nHJ9M7gzkQQuecnQw9aIvG1v8pk=
+			pITctz4t5UeKfBVJybRGMn7Ya4fo67ZwXMl/jIbVzkE=
 			</data>
 		</dict>
 		<key>PodcastLiveVC.nib</key>
@@ -2969,14 +2969,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4vpyMQgbTeKwfs9Kz91/pBBJ59utPYAazcH8gsVHZ5k=
+			3Ttw8tbUKiIS6ncfxOn4/HhLdM4ZQBR+33KD0N5Z51k=
 			</data>
 		</dict>
 		<key>PodcastUrlPlayer.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s4QUdw4n6gBhL4hpWyonSmoHmw6B37RBnGUPZNAwgAE=
+			woNXw1H21SAU7UmJuOteXaAIlTMLh1RZKPe5hgPZd9Y=
 			</data>
 		</dict>
 		<key>PodcastVC.nib</key>
@@ -3221,7 +3221,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sUb9LwD6H/cq0kBGyGDuweeOqijvgl3m2J/EHn5KDAI=
+			CWKPE8GMpXQU8sQ92pyCaRtNgUG3nEMkG5Mv03iN0IM=
 			</data>
 		</dict>
 		<key>QurabaniTathporjo.nib</key>
@@ -3291,7 +3291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JSCZoFNlGblFvoI7jj8JsOg/u4I230ydTTQuduZOB9Q=
+			9O1e4/IqHnERv49/bY4dAm40cgWJppYb+y6dgnvFByA=
 			</data>
 		</dict>
 		<key>QurbaniBookCell.nib</key>
@@ -3438,7 +3438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			21fFRwZ2qY8nUZBtC9BGuA4KJNLBElQHD2+EB+RJI9E=
+			dKvL0PruI6EibFIzGHJpAV0P5Sl3LZxPVv2RCl/DWNo=
 			</data>
 		</dict>
 		<key>SubscriptionHeader.nib</key>
