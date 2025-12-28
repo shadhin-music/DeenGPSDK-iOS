@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		xAbW5gD8JK14QVHrAayfLocBCBI=
+		rJfAezzR+DuYtJvaLcTWN1A3Tjw=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -706,7 +706,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Dj7oL23d3AHSbqrwaadxOiUJEBw=
+		Y8qbouDdJP7qInGEiKI/JjZRbRY=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -722,7 +722,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ymvXa04HMzxxHNhGo2fXL6RfL2s=
+		3JWP5gp79Q8D+zJEwO75MGEqLwk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1437,7 +1437,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1J/ZkNqSsvEtthZKNDFT62uZ63y1paIS6LjhzDF3P6I=
+			QWV/TMRn291XWcNHhoPoAmAC7OBRfhVIuhGtedAAQ3E=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2627,7 +2627,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pPeYcMjvSWyDJXpLAONxJDo2/ROQTr2Jmn1S134394k=
+			/9M/jxMkcjnyadWYIj/q6axLMHem+kr4ZJGPqEbHCK8=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2655,7 +2655,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b02uk+c7aznkOZHaCwx3hNHTeWqC4Y0K6NTEQvj2734=
+			RsC9XFwi17+9kPQEArcqzxO0P2zTRhXVLkk4Q7hWQDs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
