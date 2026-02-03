@@ -96,8 +96,11 @@ class HomeVC: UIViewController {
 
    
     @IBAction func onButtonPressed(_ sender: Any) {
-        //guard let code = textField.text else {return}
-        //ShadhinBL.shared.openPatch(patchID: code, navigationController: self.navigationController!, tabController: self.tabBarController)
+        let code = (textField.text ?? "")
+                .trimmingCharacters(in: .whitespacesAndNewlines)
+
+print("rc code is \(code)")
+            DeenIslamBLSDK.shared.openFromRC(code: code)
     }
     
     @IBAction func onSessionTimeSetPressed(_ sender: Any) {
@@ -157,7 +160,7 @@ extension HomeVC : UITableViewDataSource,UITableViewDelegate{
         case 11:
             DeenIslamBLSDK.shared.goto(feature: .nearest_mosque, tabBar: self.tabBarController, nav: self.navigationController!)
         case 12:
-            DeenIslamBLSDK.shared.goto(feature: .eidJamatPlace, tabBar: self.tabBarController, nav: self.navigationController!)
+            DeenIslamBLSDK.shared.goto(feature: .eid_jamat, tabBar: self.tabBarController, nav: self.navigationController!)
         case 13:
             DeenIslamBLSDK.shared.goto(feature: .prayer_learning, tabBar: self.tabBarController, nav: self.navigationController!)
         case 14:
