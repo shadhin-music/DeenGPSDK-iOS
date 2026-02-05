@@ -43761,7 +43761,7 @@
           {
             "kind": "Function",
             "name": "openFromRC",
-            "printedName": "openFromRC(code:)",
+            "printedName": "openFromRC(code:tabBar:nav:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -43773,13 +43773,33 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UITabBarController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITabBarController",
+                    "printedName": "UIKit.UITabBarController",
+                    "usr": "c:objc(cs)UITabBarController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)openFromRCWithCode:",
-            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC10openFromRC4codeySS_tF",
+            "usr": "c:@CM@DeenIslamSDK@objc(cs)DeenIslamBLSDK(im)openFromRCWithCode:tabBar:nav:",
+            "mangledName": "$s12DeenIslamSDK0aB5BLSDKC10openFromRC4code6tabBar3navySS_So05UITabJ10ControllerCSgSo012UINavigationM0CtF",
             "moduleName": "DeenIslamSDK",
-            "objc_name": "openFromRCWithCode:",
+            "objc_name": "openFromRCWithCode:tabBar:nav:",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -106844,7 +106864,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 9,
-      "value": "\"v1.2.21\""
+      "value": "\"v1.2.22\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/Kingfisher\/Image\/ImageDrawing.swift",
@@ -112827,7 +112847,7 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/DeenAI\/DeenAIVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 9821,
+      "offset": 9825,
       "length": 4,
       "value": "true"
     },

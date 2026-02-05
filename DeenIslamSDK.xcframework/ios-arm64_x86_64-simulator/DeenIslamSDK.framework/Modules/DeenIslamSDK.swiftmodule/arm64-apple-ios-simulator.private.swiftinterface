@@ -1924,7 +1924,9 @@ extension DeenIslamSDK.DeenIslamBLSDK {
   #endif
   @objc final public func eventRegister(with event: UIKit.UIEvent)
   @objc final public func terminate()
-  @objc final public func openFromRC(code: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc final public func openFromRC(code: Swift.String, tabBar: UIKit.UITabBarController?, nav: UIKit.UINavigationController)
+  #endif
   @objc final public func isPrayerNotificationEnabled() -> Swift.Bool
   @objc final public func clearAllPrayerNotification()
   @objc final public func prayerNotification(isEnable: Swift.Bool)

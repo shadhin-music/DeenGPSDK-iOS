@@ -2,10 +2,10 @@ Pod::Spec.new do |spec|
 
   # Metadata
   spec.name         = "DeenIslamSDK"
-  spec.version      = "1.2.21"
+  spec.version      = "1.2.22"
   spec.summary      = "An Islamic SDK for MyGP iOS app"
   spec.description  = <<-DESC
-    DeenIslamSDK provides Islamic content and features for the MyGP iOS app, including prayer times, 
+    DeenIslamSDK provides Islamic content and features for the MyBL iOS app, including prayer times, 
     Quran recitations, and other Islamic functionalities.
   DESC
 

@@ -567,7 +567,7 @@ SWIFT_CLASS("_TtC12DeenIslamSDK14DeenIslamBLSDK")
 - (void)gotoWithFeature:(enum AppFeature)feature tabBar:(UITabBarController * _Nullable)tabBar nav:(UINavigationController * _Nonnull)nav;
 - (void)eventRegisterWith:(UIEvent * _Nonnull)event;
 - (void)terminate;
-- (void)openFromRCWithCode:(NSString * _Nonnull)code;
+- (void)openFromRCWithCode:(NSString * _Nonnull)code tabBar:(UITabBarController * _Nullable)tabBar nav:(UINavigationController * _Nonnull)nav;
 - (BOOL)isPrayerNotificationEnabled SWIFT_WARN_UNUSED_RESULT;
 - (void)clearAllPrayerNotification;
 - (void)prayerNotificationWithIsEnable:(BOOL)isEnable;

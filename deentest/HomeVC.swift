@@ -99,8 +99,8 @@ class HomeVC: UIViewController {
         let code = (textField.text ?? "")
                 .trimmingCharacters(in: .whitespacesAndNewlines)
 
-print("rc code is \(code)")
-            DeenIslamBLSDK.shared.openFromRC(code: code)
+
+        DeenIslamBLSDK.shared.openFromRC(code: code, tabBar : self.tabBarController, nav : self.navigationController!)
     }
     
     @IBAction func onSessionTimeSetPressed(_ sender: Any) {
