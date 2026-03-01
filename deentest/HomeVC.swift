@@ -104,9 +104,7 @@ class HomeVC: UIViewController {
     }
     
     @IBAction func onSessionTimeSetPressed(_ sender: Any) {
-//        guard let tt = sessionTimeTV.text, let time = Double(tt) else {return}
-//        ShadhinBL.shared.setSessionPulesTimer(second: time)
-//        sessionTimeButton.isEnabled = false
+        DeenIslamBLSDK.shared.logout()
         
     }
 }

@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		V2v6yrg9Jf5FCHtmwotpRflx9Rg=
+		OQFv6DBtppTQ83xd7SDYN62L8HU=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -123,10 +123,6 @@
 		<key>CommonCard.nib</key>
 		<data>
 		P6zOj3ZS3qhEAPzCG5aqDN1LbFI=
-		</data>
-		<key>CommonWebLoader.nib</key>
-		<data>
-		yPjWXeCT1abIaIStcYEeQ8nfkEs=
 		</data>
 		<key>CompassCalibrateVC.nib</key>
 		<data>
@@ -614,7 +610,7 @@
 		</data>
 		<key>HomeMenuVC.nib</key>
 		<data>
-		cq3jwDqqlf2t433NyoCCEgQOlbY=
+		DrgKTCTtKGOzWEI3OoNrjuszTLg=
 		</data>
 		<key>HomePlayerVC.nib</key>
 		<data>
@@ -770,7 +766,7 @@
 		</data>
 		<key>MoccaModinaLiveVC.nib</key>
 		<data>
-		bqyJYMXuQhVVjq8O5wTGD80AAmo=
+		jIjWYOMzRBLFxxnbrddyIap9FCg=
 		</data>
 		<key>MoccaModinaLiveVcCell.nib</key>
 		<data>
@@ -778,11 +774,11 @@
 		</data>
 		<key>MoccaModinaLiveVideoVC.nib</key>
 		<data>
-		j7ELUPHKAkAGbioGEnJRRus1N34=
+		Ogaoig+SIHmNzRTCPXHDD1I0Srw=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		2vZgqyRju12SkDrhqHk4NKirrRQ=
+		oVtyYDN+gTvLqONgE1j3TFecHc0=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -798,7 +794,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		V71+tNp6+kj6WV7R476qLorW5j0=
+		yG3x/I8HE0LQcdhglcWN34gTyWE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -895,14 +891,6 @@
 		<key>NewNamesDetailsVc.nib</key>
 		<data>
 		qSR5wpUybisOK43GDGt4rYOrP/U=
-		</data>
-		<key>OnlineHutCell.nib</key>
-		<data>
-		9e6+mfbv/OrFzQgzjdSVLW2UBJ4=
-		</data>
-		<key>OnlineHutVC.nib</key>
-		<data>
-		d/wNjAjY29RLT4BJMCw3vSxRdWQ=
 		</data>
 		<key>OnudanCell.nib</key>
 		<data>
@@ -1038,7 +1026,7 @@
 		</data>
 		<key>PremiumCell.nib</key>
 		<data>
-		d0HlgN27F+Pem7sEmQD0OJK41Uw=
+		xkIK6mxTanXMrMNyvVFw09k1Bjc=
 		</data>
 		<key>PrivacyRoles.nib</key>
 		<data>
@@ -1055,6 +1043,10 @@
 		<key>QuaranAyatCell.nib</key>
 		<data>
 		JKBLDnUHo3Qk66OaW/3MBwDQ4cU=
+		</data>
+		<key>QuaranCatCell.nib</key>
+		<data>
+		cstT9wtujNdVMKWkgAUdL4fE638=
 		</data>
 		<key>QuizBillboard.nib</key>
 		<data>
@@ -1154,7 +1146,7 @@
 		</data>
 		<key>QurbaniDetails.nib</key>
 		<data>
-		alwRHAzldsc4TdpS1a5xJj2Y5xY=
+		w8q2U7MAMTPXpuHINsZ396c/4Qg=
 		</data>
 		<key>QurbaniDetailsCell.nib</key>
 		<data>
@@ -1246,7 +1238,7 @@
 		</data>
 		<key>SubscriptionVC.nib</key>
 		<data>
-		38OZO5ndBqUUkRtoan2jF63zelE=
+		rJadBTTyPPCUFGhAEUcVVtJVXKU=
 		</data>
 		<key>SuraCell.nib</key>
 		<data>
@@ -1316,10 +1308,6 @@
 		<data>
 		iBBGmVN66ma78meuEBDky09e9Eo=
 		</data>
-		<key>TearmsNCondition.nib</key>
-		<data>
-		iUneuabzmIrMKJKI9xJCyX/7iuk=
-		</data>
 		<key>TestCell.nib/objects-14.0+.nib</key>
 		<data>
 		oCsMRF7sALRwlC9pV8eLaQrzWRU=
@@ -1350,7 +1338,7 @@
 		</data>
 		<key>UpcomingEventCell.nib</key>
 		<data>
-		yLhxCc2ccVXBdTogHGnTJxryOCI=
+		pdGAIgEZ79P/+3W0KwACj5wPi58=
 		</data>
 		<key>UsableCondition.nib</key>
 		<data>
@@ -1378,7 +1366,7 @@
 		</data>
 		<key>WhenSubcribedCell.nib</key>
 		<data>
-		G/yHRFhvitavqBFGf8yQErXB/xo=
+		Fw00w6eEo+fcM5oVz71KiKOyLpw=
 		</data>
 		<key>WinnerCell.nib</key>
 		<data>
@@ -1485,6 +1473,18 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>easyQuaranCatVC.nib</key>
+		<data>
+		tWcuq8/9qCnqDz/Jazjo57W68MA=
+		</data>
+		<key>easyQuaranDetailsVC.nib</key>
+		<data>
+		/Goopepm/xsk7FeoIVxe5LPnH2I=
+		</data>
+		<key>easyQuranGTDVC.nib</key>
+		<data>
+		1Tn72KioTpGgixzNeFqtnJe5LpM=
+		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1532,11 +1532,15 @@
 		</data>
 		<key>qMenuCell.nib</key>
 		<data>
-		ae3MAJ7AKxt4EEn/tVZnx0oiBnQ=
+		RGbSY2O3S5IEqcWdIRN2gG3I2CQ=
 		</data>
 		<key>qMenuCollection.nib</key>
 		<data>
 		m0KhO/l3VqbI0WY4BJqDkOmrkus=
+		</data>
+		<key>qQuizCell.nib</key>
+		<data>
+		nvJP3PNhKRmw7GG0bPkvGNZDJiU=
 		</data>
 		<key>weeklyLeaderBoardCell.nib</key>
 		<data>
@@ -1609,7 +1613,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tu6Ff7PUEhjdtbVuzUT5b6JVoQo8CPkccAhdWxZ9xFg=
+			9sN1lhT1GGs5kPWQIJdx3Lz5nkKowR3H89KWZC5SV5A=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -1757,13 +1761,6 @@
 			<key>hash2</key>
 			<data>
 			bk21s86Vv71uj0tER9PjNwIo0xcYzQjxstdxTiVLo8A=
-			</data>
-		</dict>
-		<key>CommonWebLoader.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oQgE7CXSiDUz38EME7Sg5NOHSZPTF28jJF78tRDSbCo=
 			</data>
 		</dict>
 		<key>CompassCalibrateVC.nib</key>
@@ -2617,7 +2614,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MJB1pP8ZQNTomDcGnuid+jQy6Ycx//LLUorONugyNJA=
+			RRc4YGkDfzFhEe9pPTnaV38hB2TxX//U020u3ecrwY8=
 			</data>
 		</dict>
 		<key>HomePlayerVC.nib</key>
@@ -2883,7 +2880,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YG4vLZNCafXzQC5hmNfnIX/Ob2Tvg7AYBoMlqNbZSw4=
+			qwyF+AyU9Q5oIx0ZZS0vfCSnl3XYpgLtbq9crH6jGmM=
 			</data>
 		</dict>
 		<key>MoccaModinaLiveVcCell.nib</key>
@@ -2897,14 +2894,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QFXlQQddZnuwIxodPFaK6Mf5KqiUODpxDVL9xCLr9V8=
+			YQHZGoCxiIo3F5v7LWnmIpYF91KZ4gXRoUfb8aGHHtQ=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EdR4Nj+8RrGtav6hXU5QBrViuCinNGSTXKtCqLFTFTk=
+			FT4hOTsuqjBOUPrHwA9fL2nOxP2KTqUl0PHpaifradA=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2932,7 +2929,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IL3wc2VvGy8J+TGxVUFNtO5L3P7lnsj6q4oJXveXn2c=
+			dX6H+WY8nBDLtd809zg8sGrjlQR16PF13K7OGVM1xV0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3101,20 +3098,6 @@
 			<key>hash2</key>
 			<data>
 			w3IFvX9+zTJ0WwiFNY1fE9C1/7YhV/awuuW5hirDYbE=
-			</data>
-		</dict>
-		<key>OnlineHutCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pRlTrxhNj8xUV4azaHGhPHbZwciYqpJEM5Og8YiyOF0=
-			</data>
-		</dict>
-		<key>OnlineHutVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KpXqJr5KBR7JLLfG+nJcHqF4AaQzlJZx5FwJZTtW6lc=
 			</data>
 		</dict>
 		<key>OnudanCell.nib</key>
@@ -3352,7 +3335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sh7tPsBoDd+Q7f29hYQ+yJm74zqJCVfv/yHpuvNMTR4=
+			r/S+oPmwwi9xkoT6l+zWfiewcHlekYzN+MX8aERyZnk=
 			</data>
 		</dict>
 		<key>PrivacyRoles.nib</key>
@@ -3381,6 +3364,13 @@
 			<key>hash2</key>
 			<data>
 			s75vgTY9QqHH+JlRs3mxeghpGn0GZXSS8opTbGOBOT0=
+			</data>
+		</dict>
+		<key>QuaranCatCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			87o5sERNZyxD0Bh8jh3Pv2ZM12kz4wmg+4ijjpbr6vU=
 			</data>
 		</dict>
 		<key>QuizBillboard.nib</key>
@@ -3555,7 +3545,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rpWo26W6YwXl9Qr8hoPEFbwnrY+em8CAV/nodLjxLqo=
+			0TAdiNkoskhx90I0E67jEgiCqi8dEzqnJb7V79FNZ9Y=
 			</data>
 		</dict>
 		<key>QurbaniDetailsCell.nib</key>
@@ -3716,7 +3706,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K3U3QiHI5LcYiVBMUufhdRlg1C6JWlQ6jFC/VsgjCFE=
+			woqux9+H0XJyOvhMyJ4vJxAVQ/GahjZu4ZPlK19FLZc=
 			</data>
 		</dict>
 		<key>SuraCell.nib</key>
@@ -3838,13 +3828,6 @@
 			FyXyxDZm6B6Wqp/5/GZ23nKx3Ym3XOGjgjeZVwOB+w4=
 			</data>
 		</dict>
-		<key>TearmsNCondition.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hLZyFf/IRT4cepTGmxLWqQO19YKHUWeczBA8DnpoNEQ=
-			</data>
-		</dict>
 		<key>TestCell.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -3898,7 +3881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JHtPmH5I6vEDXbqvQj5kA2gnDpfI/IaadK0K6aVInCE=
+			Ld+xSq0foDc/0EJEN1aaRL4iNjF2nY/H1kFV447fyFw=
 			</data>
 		</dict>
 		<key>UsableCondition.nib</key>
@@ -3947,7 +3930,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pcki+Q7dAw2d26WM40ndhn5aHgKFUEmsO0TfUeTjDn0=
+			6GfMWeE0eomhV6WYwew3DgCfqe+N0hmswE1/DjZ7DAo=
 			</data>
 		</dict>
 		<key>WinnerCell.nib</key>
@@ -4127,6 +4110,27 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>easyQuaranCatVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VmprgOS2XqwY54kChYsnmB83LO4O68eVBrzgN+8HTmk=
+			</data>
+		</dict>
+		<key>easyQuaranDetailsVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X4PN3kVUXfeGX92jf9aDezN1paQSLyPK/OQ77EmtwXE=
+			</data>
+		</dict>
+		<key>easyQuranGTDVC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lPHvvSniaWuHqQdQEGJbNbl7flpE2tPCCmHEmGgv9A4=
+			</data>
+		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -4203,7 +4207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WU3Lc0FH8QOKByxHFH1+iwXwYvGV5n5xgdQvUt1R03Q=
+			nAHvSh4bBqTtL/aPI/WzmCoy7+7ddu5jirHQXsiWjY8=
 			</data>
 		</dict>
 		<key>qMenuCollection.nib</key>
@@ -4211,6 +4215,13 @@
 			<key>hash2</key>
 			<data>
 			kQXxmLOIK6m3U9//ZnJuJfKyECC7QZPpVd8GJxpcpwg=
+			</data>
+		</dict>
+		<key>qQuizCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1+npIDjeFaZcL2TdiCpPRmhl7LuY7H3XL/9xcdnUpNU=
 			</data>
 		</dict>
 		<key>weeklyLeaderBoardCell.nib</key>
