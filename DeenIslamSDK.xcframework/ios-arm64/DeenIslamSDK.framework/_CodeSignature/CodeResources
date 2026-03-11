@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		OQFv6DBtppTQ83xd7SDYN62L8HU=
+		M29rnIUmmMfjYS3B/iL/T4+6MIE=
 		</data>
 		<key>AutoRenewOffCell.nib</key>
 		<data>
@@ -646,7 +646,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aofoMSzM1vaHqafL2xTOGUaWTIU=
+		rU5yoUIwqMviIr1sAnhQkvAc/AY=
 		</data>
 		<key>IslamicBookCategoryVC.nib</key>
 		<data>
@@ -778,7 +778,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		oVtyYDN+gTvLqONgE1j3TFecHc0=
+		H6ma3i2xfGbfRrNLi2r5SilLLa8=
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -794,7 +794,7 @@
 		</data>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		yG3x/I8HE0LQcdhglcWN34gTyWE=
+		TiYIBIqCNkSPLcIhpuYaMyVVWQU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -926,7 +926,7 @@
 		</data>
 		<key>PlayerLearningDetailsVC.nib</key>
 		<data>
-		XhwlifFvPF2Wmo8NnGXWxOCJse8=
+		Eefs5x1mJPKh3atkkY0V/bqkqjw=
 		</data>
 		<key>PlayerViewCollectionCell.nib</key>
 		<data>
@@ -1198,7 +1198,7 @@
 		</data>
 		<key>RichContentDetails.nib</key>
 		<data>
-		8mZUdVcFH3SGsTBgmNdH8HzCCv8=
+		o4nNWhJ5Nz5B7pij1YMOIoxk74U=
 		</data>
 		<key>ScholarCell.nib</key>
 		<data>
@@ -1613,7 +1613,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9sN1lhT1GGs5kPWQIJdx3Lz5nkKowR3H89KWZC5SV5A=
+			LA5SrANW9ZcxHRs+6AyJwhlWOzXSuT5RgQOskaDYSE0=
 			</data>
 		</dict>
 		<key>AutoRenewOffCell.nib</key>
@@ -2901,7 +2901,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FT4hOTsuqjBOUPrHwA9fL2nOxP2KTqUl0PHpaifradA=
+			/eRn0XGKofla7CcLycotP7CY5neffPP9DQGpRnbASHE=
 			</data>
 		</dict>
 		<key>Modules/DeenIslamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -2929,7 +2929,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dX6H+WY8nBDLtd809zg8sGrjlQR16PF13K7OGVM1xV0=
+			yt159ioOD7cGbmjghy9uuXgTiV8hfzc3h1XMgW+WCLU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -3160,7 +3160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q3ofRk7NkQtWsHJq3dgNVEFxCTdICM8DqJxhuXCFtTo=
+			jAZsk3hXCYiCXGu7vdHGxS1g43RLR1+T63bJgEKayeg=
 			</data>
 		</dict>
 		<key>PlayerViewCollectionCell.nib</key>
@@ -3636,7 +3636,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cHCoXOH7CKdrH0X+eT38cJ788eYI2AA6ZuZrZ33h4T0=
+			dLYeWW6aR+qAHX5byC7osnCTcpch7lu1/grKal9iH3U=
 			</data>
 		</dict>
 		<key>ScholarCell.nib</key>

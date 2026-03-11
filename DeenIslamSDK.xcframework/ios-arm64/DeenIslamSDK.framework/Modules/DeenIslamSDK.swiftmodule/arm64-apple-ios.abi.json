@@ -91963,7 +91963,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 9,
-      "value": "\"v1.2.25\""
+      "value": "\"v1.2.26\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/Kingfisher\/Image\/ImageDrawing.swift",
@@ -97960,7 +97960,7 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/NewPrayerLearning\/PrayerLearningDetails\/PlayerLearningDetailsVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 483,
+      "offset": 526,
       "length": 5,
       "value": "false"
     },
@@ -114571,196 +114571,196 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8684,
+      "offset": 8694,
       "length": 5,
       "value": "\"qic\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8712,
+      "offset": 8722,
       "length": 5,
       "value": "\"qsc\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8741,
+      "offset": 8751,
       "length": 7,
       "value": "\"ibook\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8770,
+      "offset": 8780,
       "length": 5,
       "value": "\"qoh\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8798,
+      "offset": 8808,
       "length": 4,
       "value": "\"qh\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8827,
+      "offset": 8837,
       "length": 4,
       "value": "\"ib\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8858,
+      "offset": 8868,
       "length": 5,
       "value": "\"khq\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8879,
+      "offset": 8889,
       "length": 4,
       "value": "\"du\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8900,
+      "offset": 8910,
       "length": 4,
       "value": "\"ri\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8923,
+      "offset": 8933,
       "length": 4,
       "value": "\"hd\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8948,
+      "offset": 8958,
       "length": 6,
       "value": "\"imas\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 8982,
+      "offset": 8992,
       "length": 5,
       "value": "\"fnm\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9010,
+      "offset": 9020,
       "length": 6,
       "value": "\"cacl\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9032,
+      "offset": 9042,
       "length": 6,
       "value": "\"subs\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9063,
+      "offset": 9073,
       "length": 6,
       "value": "\"pldp\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9094,
+      "offset": 9104,
       "length": 9,
       "value": "\"pvisual\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9122,
+      "offset": 9132,
       "length": 6,
       "value": "\"pldd\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9147,
+      "offset": 9157,
       "length": 8,
       "value": "\"ptrack\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9174,
+      "offset": 9184,
       "length": 8,
       "value": "\"prakat\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9199,
+      "offset": 9209,
       "length": 6,
       "value": "\"menu\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9223,
+      "offset": 9233,
       "length": 6,
       "value": "\"ptub\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9246,
+      "offset": 9256,
       "length": 4,
       "value": "\"sd\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9269,
+      "offset": 9279,
       "length": 8,
       "value": "\"ijtema\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9302,
+      "offset": 9312,
       "length": 6,
       "value": "\"rkhq\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9324,
+      "offset": 9334,
       "length": 5,
       "value": "\"map\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9347,
+      "offset": 9357,
       "length": 7,
       "value": "\"gtdrt\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9370,
+      "offset": 9380,
       "length": 5,
       "value": "\"gtm\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ApiResponse\/CommonResponse.swift",
       "kind": "StringLiteral",
-      "offset": 9391,
+      "offset": 9401,
       "length": 5,
       "value": "\"gtd\""
     },
