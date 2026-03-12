@@ -91963,7 +91963,7 @@
       "kind": "StringLiteral",
       "offset": 156,
       "length": 9,
-      "value": "\"v1.2.26\""
+      "value": "\"v1.2.27\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/Library \/Kingfisher\/Image\/ImageDrawing.swift",
@@ -107144,51 +107144,107 @@
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "Array",
-      "offset": 373,
+      "offset": 403,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 500,
+      "offset": 540,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 528,
+      "offset": 571,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 565,
+      "offset": 611,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 636,
+      "offset": 681,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 714,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "Array",
-      "offset": 699,
+      "offset": 836,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
       "kind": "StringLiteral",
-      "offset": 739,
-      "length": 2,
-      "value": "\"\""
+      "offset": 892,
+      "length": 40,
+      "value": "\"com.deenIslam.qurbaniDetails.dataQueue\""
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "BooleanLiteral",
+      "offset": 994,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1032,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1135,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1172,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1208,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1253,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/Qurbani\/QurbaniCategoryDetails\/QurbaniDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 1309,
+      "length": 26,
+      "value": "\"com.deenIslam.debugQueue\""
     },
     {
       "filePath": "\/Users\/deep\/Downloads\/iOS_SDK\/Bl_Deen_SDK\/BL_Islamic_SDK_Main\/DeenIslamSDK\/ViewController\/DuaAndAmol\/DuaAmolPlayer\/DuaAmolAdapter.swift",
